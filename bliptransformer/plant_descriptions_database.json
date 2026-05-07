@@ -1,0 +1,642 @@
+{
+  "Aloevera": {
+    "common_name": "Aloe Vera",
+    "scientific_name": "Aloe vera",
+    "family": "Asphodelaceae",
+    "local_nepali_name": "घ्यूकुमारी",
+    "description": "A succulent with thick gel-filled leaves used for soothing skin and minor burns.",
+    "uses": ["Skin soothing", "Cooling gel", "Home remedy"]
+  },
+  "Amla": {
+    "common_name": "Indian Gooseberry",
+    "scientific_name": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "local_nepali_name": "आँवला",
+    "description": "A small fruit tree known for sour vitamin-C-rich fruits used in wellness drinks and powders.",
+    "uses": ["Vitamin C source", "Digestive support", "Immune support"]
+  },
+  "Amruthaballi": {
+    "common_name": "Giloy",
+    "scientific_name": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "local_nepali_name": "गुर्जो",
+    "description": "A climbing medicinal vine with bitter stems traditionally used for immunity support.",
+    "uses": ["Immunity support", "Fever care", "Traditional medicine"]
+  },
+  "Arali": {
+    "common_name": "Oleander",
+    "scientific_name": "Nerium oleander",
+    "family": "Apocynaceae",
+    "local_nepali_name": "कानेर",
+    "description": "An ornamental shrub with showy flowers commonly grown in gardens; it is toxic if ingested.",
+    "uses": ["Ornamental planting", "Garden hedge", "Landscape color"]
+  },
+  "ashoka": {
+    "common_name": "Ashoka Tree",
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "local_nepali_name": "अशोक",
+    "description": "A sacred ornamental tree with clustered flowers valued in traditional medicine and temple gardens.",
+    "uses": ["Ornamental tree", "Traditional medicine", "Sacred planting"]
+  },
+  "Astma_weed": {
+    "common_name": "Asthma Weed",
+    "scientific_name": "Euphorbia hirta",
+    "family": "Euphorbiaceae",
+    "local_nepali_name": "दमघुट्ने झार",
+    "description": "A small herb used in folk remedies for cough, asthma, and inflammation.",
+    "uses": ["Cough relief", "Asthma care", "Folk medicine"]
+  },
+  "Badipala": {
+    "common_name": "Local Medicinal Herb",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional medicinal or garden herb.",
+    "uses": ["Traditional remedy", "Home garden", "Regional plant"]
+  },
+  "Balloon_Vine": {
+    "common_name": "Balloon Vine",
+    "scientific_name": "Cardiospermum halicacabum",
+    "family": "Sapindaceae",
+    "local_nepali_name": "फुकेको दाना लहरा",
+    "description": "A climbing vine with inflated seed pods often used in folk medicine and as a learning sample.",
+    "uses": ["Climber", "Folk medicine", "Seed pod study"]
+  },
+  "Bamboo": {
+    "common_name": "Bamboo",
+    "scientific_name": "Bambusa vulgaris",
+    "family": "Poaceae",
+    "local_nepali_name": "बाँस",
+    "description": "A fast-growing grass with tall hollow culms used for construction, crafts, and shoots.",
+    "uses": ["Construction", "Craft material", "Edible shoots"]
+  },
+  "Beans": {
+    "common_name": "Common Bean",
+    "scientific_name": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "local_nepali_name": "सिमी",
+    "description": "A common legume grown for edible pods and seeds rich in protein and fiber.",
+    "uses": ["Vegetable crop", "Protein source", "Fiber-rich food"]
+  },
+  "Betel": {
+    "common_name": "Betel Leaf",
+    "scientific_name": "Piper betle",
+    "family": "Piperaceae",
+    "local_nepali_name": "पान",
+    "description": "A glossy climbing leaf chewed as paan and used in oral and digestive remedies.",
+    "uses": ["Chewing leaf", "Oral care", "Digestive aid"]
+  },
+  "Bhrami": {
+    "common_name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "local_nepali_name": "ब्राह्मी",
+    "description": "A creeping herb valued in Ayurveda for memory, calmness, and nervous system support.",
+    "uses": ["Memory support", "Calming herb", "Ayurvedic remedy"]
+  },
+  "Bringaraja": {
+    "common_name": "Bhringraj",
+    "scientific_name": "Eclipta prostrata",
+    "family": "Asteraceae",
+    "local_nepali_name": "भृङ्गराज",
+    "description": "A medicinal herb with small daisy-like flowers used for hair care and liver support.",
+    "uses": ["Hair care", "Liver support", "Traditional medicine"]
+  },
+  "camphor": {
+    "common_name": "Camphor Tree",
+    "scientific_name": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "local_nepali_name": "कपूर",
+    "description": "An aromatic evergreen tree known for strong-smelling leaves and medicinal oil.",
+    "uses": ["Aromatic oil", "Respiratory care", "Temple use"]
+  },
+  "Caricature": {
+    "common_name": "Caricature Plant",
+    "scientific_name": "Graptophyllum pictum",
+    "family": "Acanthaceae",
+    "local_nepali_name": "सजावटी पातको बोट",
+    "description": "An ornamental foliage plant with colorful leaves grown mainly for decorative use.",
+    "uses": ["Ornamental plant", "Landscape color", "Foliage display"]
+  },
+  "Castor": {
+    "common_name": "Castor",
+    "scientific_name": "Ricinus communis",
+    "family": "Euphorbiaceae",
+    "local_nepali_name": "एरण्ड",
+    "description": "A fast-growing plant whose seeds yield castor oil and whose leaves are used in folk care.",
+    "uses": ["Castor oil", "Folk remedy", "Industrial plant"]
+  },
+  "Catharanthus": {
+    "common_name": "Periwinkle",
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "local_nepali_name": "सदाबहार",
+    "description": "A flowering plant with glossy leaves and pink or white blooms also used in pharmaceuticals.",
+    "uses": ["Ornamental flower", "Medicinal source", "Garden plant"]
+  },
+  "Chakte": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species with garden or folk use.",
+    "uses": ["Regional plant", "Folk use", "Dataset class"]
+  },
+  "Chilly": {
+    "common_name": "Chili Pepper",
+    "scientific_name": "Capsicum annuum",
+    "family": "Solanaceae",
+    "local_nepali_name": "खुर्सानी",
+    "description": "A pepper plant with hot fruits used in cooking and as a source of capsaicin.",
+    "uses": ["Cooking spice", "Capsaicin source", "Pungent crop"]
+  },
+  "Citron lime (herelikai)": {
+    "common_name": "Lime",
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "local_nepali_name": "कागती",
+    "description": "A citrus plant with sour fruits used in drinks, chutneys, and vitamin-C remedies.",
+    "uses": ["Fruit crop", "Vitamin C source", "Cooking and drinks"]
+  },
+  "Coffee": {
+    "common_name": "Coffee",
+    "scientific_name": "Coffea arabica",
+    "family": "Rubiaceae",
+    "local_nepali_name": "कफी",
+    "description": "A shrub or small tree grown for coffee cherries whose seeds are roasted for beverages.",
+    "uses": ["Beverage crop", "Roasted beans", "Commercial crop"]
+  },
+  "Common rue(naagdalli)": {
+    "common_name": "Rue",
+    "scientific_name": "Ruta graveolens",
+    "family": "Rutaceae",
+    "local_nepali_name": "रू",
+    "description": "A strongly scented herb used in traditional medicine and as a repellent plant.",
+    "uses": ["Traditional medicine", "Repellent plant", "Aromatic herb"]
+  },
+  "Coriender": {
+    "common_name": "Coriander",
+    "scientific_name": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "local_nepali_name": "धनियाँ",
+    "description": "An edible herb grown for fresh leaves and seeds used in cooking and digestion.",
+    "uses": ["Edible herb", "Spice seed", "Digestive aid"]
+  },
+  "Curry": {
+    "common_name": "Curry Leaf",
+    "scientific_name": "Murraya koenigii",
+    "family": "Rutaceae",
+    "local_nepali_name": "करी पात",
+    "description": "An aromatic tree whose leaves are widely used for seasoning and folk remedies.",
+    "uses": ["Seasoning", "Digestive aid", "Aromatic leaves"]
+  },
+  "Doddpathre": {
+    "common_name": "Indian Borage",
+    "scientific_name": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "local_nepali_name": "झ्याउरे पुदिना",
+    "description": "A thick-leaved aromatic herb used as a kitchen plant and for soothing coughs.",
+    "uses": ["Cough care", "Kitchen herb", "Aromatic plant"]
+  },
+  "Drumstick": {
+    "common_name": "Drumstick Tree",
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "local_nepali_name": "सजिवन",
+    "description": "A nutritious tree known for long pods, edible leaves, and vitamin-rich home cooking.",
+    "uses": ["Leaf vegetable", "Pod vegetable", "Nutrition"]
+  },
+  "Ekka": {
+    "common_name": "Crown Flower",
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "local_nepali_name": "आक",
+    "description": "A milkweed-like shrub with pale flowers and latex, often used in traditional practices.",
+    "uses": ["Folk medicine", "Sacred plant", "Roadside shrub"]
+  },
+  "Eucalyptus": {
+    "common_name": "Eucalyptus",
+    "scientific_name": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "local_nepali_name": "नीलगिरी",
+    "description": "A tall aromatic tree with oil-rich leaves commonly used for steam and respiratory care.",
+    "uses": ["Essential oil", "Respiratory care", "Timber tree"]
+  },
+  "Ganigale": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species with traditional or garden use.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "Ganike": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species with traditional or garden use.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "Gasagase": {
+    "common_name": "Poppy",
+    "scientific_name": "Papaver somniferum",
+    "family": "Papaveraceae",
+    "local_nepali_name": "खसखस",
+    "description": "A plant known for poppy-like seeds used in foods and as a calming ingredient.",
+    "uses": ["Seed spice", "Food ingredient", "Traditional use"]
+  },
+  "Ginger": {
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "local_nepali_name": "अदुवा",
+    "description": "A rhizome crop used fresh or dried for flavor, digestion, and warming remedies.",
+    "uses": ["Cooking spice", "Digestive aid", "Warming remedy"]
+  },
+  "Globe Amarnath": {
+    "common_name": "Globe Amaranth",
+    "scientific_name": "Gomphrena globosa",
+    "family": "Amaranthaceae",
+    "local_nepali_name": "गोल अमरन्थ",
+    "description": "A decorative flowering plant with round blooms grown for garden color and bouquets.",
+    "uses": ["Ornamental flower", "Bouquets", "Garden color"]
+  },
+  "Guava": {
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "local_nepali_name": "अम्बा",
+    "description": "A fruit tree with sweet edible fruits and leaves often used in home remedies.",
+    "uses": ["Fruit crop", "Leaf remedy", "Nutritional fruit"]
+  },
+  "Henna": {
+    "common_name": "Henna",
+    "scientific_name": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "local_nepali_name": "मेहन्दी",
+    "description": "A shrub whose leaves are used to make natural dye for skin and hair.",
+    "uses": ["Natural dye", "Hair care", "Body art"]
+  },
+  "Hibiscus": {
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "local_nepali_name": "जवा फूल",
+    "description": "A flowering shrub with bright blooms used in gardens and hair or skin care.",
+    "uses": ["Ornamental flower", "Hair care", "Skin care"]
+  },
+  "Honge": {
+    "common_name": "Pongamia Tree",
+    "scientific_name": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "local_nepali_name": "करन्ज",
+    "description": "A medium-sized tree known for oil-bearing seeds and shade along roadsides.",
+    "uses": ["Shade tree", "Oil seed", "Roadside planting"]
+  },
+  "Insulin": {
+    "common_name": "Insulin Plant",
+    "scientific_name": "Costus igneus",
+    "family": "Costaceae",
+    "local_nepali_name": "इन्सुलिन बिरुवा",
+    "description": "A medicinal plant commonly called the insulin plant and used in folk care for sugar support.",
+    "uses": ["Folk medicine", "Sugar support", "Medicinal leaf"]
+  },
+  "Jackfruit": {
+    "common_name": "Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "local_nepali_name": "रुखकाटहर",
+    "description": "A large tropical tree that produces the biggest tree-borne fruit and edible bulbs.",
+    "uses": ["Fruit crop", "Seed food", "Culinary tree"]
+  },
+  "Jasmine": {
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum sambac",
+    "family": "Oleaceae",
+    "local_nepali_name": "चमेली",
+    "description": "A fragrant flowering plant prized for garlands, tea, and calming aroma.",
+    "uses": ["Fragrant flower", "Garlands", "Tea and aroma"]
+  },
+  "kamakasturi": {
+    "common_name": "Musk Mallow",
+    "scientific_name": "Abelmoschus moschatus",
+    "family": "Malvaceae",
+    "local_nepali_name": "मस्क मल्लो",
+    "description": "A soft herb with musky aroma used as a decorative and medicinal plant.",
+    "uses": ["Aromatic herb", "Traditional medicine", "Decorative plant"]
+  },
+  "Kambajala": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "Kasambruga": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "kepala": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "Kohlrabi": {
+    "common_name": "Kohlrabi",
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    "family": "Brassicaceae",
+    "local_nepali_name": "कोहलरबी",
+    "description": "A cool-season vegetable with an edible swollen stem used in salads and cooking.",
+    "uses": ["Vegetable crop", "Salad ingredient", "Stem vegetable"]
+  },
+  "Lantana": {
+    "common_name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "family": "Verbenaceae",
+    "local_nepali_name": "लन्ताना",
+    "description": "A hardy flowering shrub with clusters of small blooms often seen as an invasive ornamental.",
+    "uses": ["Ornamental shrub", "Hedge plant", "Pollinator plant"]
+  },
+  "Lemon": {
+    "common_name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "local_nepali_name": "कागती",
+    "description": "A sour citrus fruit tree with acidic fruits used in drinks, cooking, and cleaning.",
+    "uses": ["Fruit crop", "Cooking", "Vitamin C source"]
+  },
+  "Lemongrass": {
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "local_nepali_name": "लेमन घाँस",
+    "description": "A tall aromatic grass used in teas, soups, and mosquito-repelling gardens.",
+    "uses": ["Tea herb", "Aromatic grass", "Mosquito repellent"]
+  },
+  "Malabar_Nut": {
+    "common_name": "Malabar Nut",
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "local_nepali_name": "असुरो",
+    "description": "A medicinal shrub with lance-shaped leaves used for cough, bronchitis, and breathing support.",
+    "uses": ["Cough care", "Breathing support", "Medicinal shrub"]
+  },
+  "Malabar_Spinach": {
+    "common_name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "family": "Basellaceae",
+    "local_nepali_name": "पोइ साग",
+    "description": "A leafy climbing vegetable with succulent leaves eaten as a green leafy crop.",
+    "uses": ["Leafy vegetable", "Climbing crop", "Nutritional green"]
+  },
+  "Mango": {
+    "common_name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "local_nepali_name": "आँप",
+    "description": "A tropical fruit tree valued for its sweet fruits and medicinal leaves and bark.",
+    "uses": ["Fruit crop", "Shade tree", "Traditional medicine"]
+  },
+  "Marigold": {
+    "common_name": "Marigold",
+    "scientific_name": "Tagetes erecta",
+    "family": "Asteraceae",
+    "local_nepali_name": "सयपत्री",
+    "description": "A bright ornamental flower commonly used in garlands, gardens, and pest control.",
+    "uses": ["Garlands", "Ornamental flower", "Pest control"]
+  },
+  "Mint": {
+    "common_name": "Mint",
+    "scientific_name": "Mentha spicata",
+    "family": "Lamiaceae",
+    "local_nepali_name": "पुदिना",
+    "description": "A cool aromatic herb used in chutneys, drinks, and digestive remedies.",
+    "uses": ["Culinary herb", "Digestive aid", "Refreshing leaves"]
+  },
+  "Neem": {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "local_nepali_name": "निम",
+    "description": "A bitter medicinal tree with leaves, bark, and seed oil used in many traditional practices.",
+    "uses": ["Medicinal tree", "Pest control", "Skin care"]
+  },
+  "Nelavembu": {
+    "common_name": "Kalmegh",
+    "scientific_name": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "local_nepali_name": "कालमेघ",
+    "description": "A bitter herb used in folk medicine for fever, liver support, and digestion.",
+    "uses": ["Fever care", "Liver support", "Bitter tonic"]
+  },
+  "Nerale": {
+    "common_name": "Jamun",
+    "scientific_name": "Syzygium cumini",
+    "family": "Myrtaceae",
+    "local_nepali_name": "जामुन",
+    "description": "A fruit tree with dark juicy berries commonly eaten fresh and used in home remedies.",
+    "uses": ["Fruit crop", "Digestive aid", "Traditional remedy"]
+  },
+  "Nooni": {
+    "common_name": "Noni",
+    "scientific_name": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "local_nepali_name": "नोनी",
+    "description": "A tropical fruit plant known as noni, used in traditional wellness preparations.",
+    "uses": ["Traditional wellness", "Fruit plant", "Herbal preparation"]
+  },
+  "Onion": {
+    "common_name": "Onion",
+    "scientific_name": "Allium cepa",
+    "family": "Amaryllidaceae",
+    "local_nepali_name": "प्याज",
+    "description": "A bulb vegetable used as a base ingredient in cooking and flavor building.",
+    "uses": ["Cooking base", "Bulb vegetable", "Flavoring"]
+  },
+  "Padri": {
+    "common_name": "Local Plant",
+    "scientific_name": "Unknown",
+    "family": "Unknown",
+    "local_nepali_name": "उपलब्ध छैन",
+    "description": "A local dataset plant representing a regional species used in traditional or ornamental settings.",
+    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+  },
+  "Palak(Spinach)": {
+    "common_name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "local_nepali_name": "पालुङ्गो",
+    "description": "A leafy vegetable grown for nutritious green leaves used in cooking.",
+    "uses": ["Leafy vegetable", "Nutrition", "Cooking green"]
+  },
+  "Papaya": {
+    "common_name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "family": "Caricaceae",
+    "local_nepali_name": "मेवा",
+    "description": "A fast-growing fruit tree with soft orange flesh and enzyme-rich leaves and fruits.",
+    "uses": ["Fruit crop", "Digestive support", "Leaf remedy"]
+  },
+  "Parijatha": {
+    "common_name": "Parijatha",
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "local_nepali_name": "पारिजात",
+    "description": "A small sacred tree with fragrant night-blooming flowers used in rituals and remedies.",
+    "uses": ["Sacred tree", "Fragrant flowers", "Traditional remedy"]
+  },
+  "Pea": {
+    "common_name": "Pea",
+    "scientific_name": "Pisum sativum",
+    "family": "Fabaceae",
+    "local_nepali_name": "केराउ",
+    "description": "A cool-season legume grown for edible green pods and seeds.",
+    "uses": ["Legume crop", "Vegetable pod", "Protein source"]
+  },
+  "Pepper": {
+    "common_name": "Black Pepper",
+    "scientific_name": "Piper nigrum",
+    "family": "Piperaceae",
+    "local_nepali_name": "मरिच",
+    "description": "A climbing vine grown for black peppercorns used as a pungent spice.",
+    "uses": ["Spice crop", "Climbing vine", "Digestive aid"]
+  },
+  "Pomoegranate": {
+    "common_name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "local_nepali_name": "अनार",
+    "description": "A fruit tree with arils rich in antioxidants, eaten fresh or juiced.",
+    "uses": ["Fruit crop", "Antioxidant fruit", "Juice and food"]
+  },
+  "Pumpkin": {
+    "common_name": "Pumpkin",
+    "scientific_name": "Cucurbita maxima",
+    "family": "Cucurbitaceae",
+    "local_nepali_name": "फर्सी",
+    "description": "A sprawling vine producing large gourds used as vegetables and seasonal decor.",
+    "uses": ["Vegetable crop", "Soup and curry", "Seasonal produce"]
+  },
+  "Raddish": {
+    "common_name": "Radish",
+    "scientific_name": "Raphanus sativus",
+    "family": "Brassicaceae",
+    "local_nepali_name": "मुला",
+    "description": "A root vegetable with crunchy spicy roots eaten raw or cooked.",
+    "uses": ["Root vegetable", "Salad ingredient", "Cooking crop"]
+  },
+  "Rose": {
+    "common_name": "Rose",
+    "scientific_name": "Rosa hybrida",
+    "family": "Rosaceae",
+    "local_nepali_name": "गुलाब",
+    "description": "A classic ornamental flower grown for fragrance, bouquets, and skin care products.",
+    "uses": ["Ornamental flower", "Perfume", "Bouquets"]
+  },
+  "Sampige": {
+    "common_name": "Champak",
+    "scientific_name": "Magnolia champaca",
+    "family": "Magnoliaceae",
+    "local_nepali_name": "चम्पा",
+    "description": "A fragrant flowering tree known for yellow-orange blossoms used in rituals and perfume.",
+    "uses": ["Fragrant flower", "Temple use", "Ornamental tree"]
+  },
+  "Sapota": {
+    "common_name": "Sapota",
+    "scientific_name": "Manilkara zapota",
+    "family": "Sapotaceae",
+    "local_nepali_name": "सापोटा",
+    "description": "A fruit tree with sweet brown-fleshed fruits also called chikoo.",
+    "uses": ["Fruit crop", "Fresh eating", "Sweet fruit"]
+  },
+  "Seethaashoka": {
+    "common_name": "False Ashoka",
+    "scientific_name": "Polyalthia longifolia",
+    "family": "Annonaceae",
+    "local_nepali_name": "सीता अशोक",
+    "description": "A tall ornamental tree with graceful foliage and flowers used in avenue planting.",
+    "uses": ["Avenue tree", "Ornamental planting", "Shade tree"]
+  },
+  "Seethapala": {
+    "common_name": "Custard Apple",
+    "scientific_name": "Annona squamosa",
+    "family": "Annonaceae",
+    "local_nepali_name": "शरीफा",
+    "description": "A fruit tree with sweet segmented pulp also called custard apple.",
+    "uses": ["Fruit crop", "Sweet pulp", "Dessert fruit"]
+  },
+  "Spinach1": {
+    "common_name": "Amaranth Spinach",
+    "scientific_name": "Amaranthus viridis",
+    "family": "Amaranthaceae",
+    "local_nepali_name": "जंगली पालुङ्गो",
+    "description": "A leafy green plant class used as an alternative spinach-type vegetable.",
+    "uses": ["Leafy vegetable", "Cooking green", "Nutritional crop"]
+  },
+  "Tamarind": {
+    "common_name": "Tamarind",
+    "scientific_name": "Tamarindus indica",
+    "family": "Fabaceae",
+    "local_nepali_name": "इमली",
+    "description": "A pod-bearing tree with sour pulp used in cooking and chutneys.",
+    "uses": ["Sour fruit", "Cooking ingredient", "Chutney source"]
+  },
+  "Taro": {
+    "common_name": "Taro",
+    "scientific_name": "Colocasia esculenta",
+    "family": "Araceae",
+    "local_nepali_name": "पिँडालु",
+    "description": "A tuber crop with large leaves and edible corms used in curries and stews.",
+    "uses": ["Tuber crop", "Leaf vegetable", "Starchy food"]
+  },
+  "Tecoma": {
+    "common_name": "Tecoma",
+    "scientific_name": "Tecoma stans",
+    "family": "Bignoniaceae",
+    "local_nepali_name": "टेकोमा",
+    "description": "An ornamental shrub with trumpet-shaped yellow flowers common in landscaping.",
+    "uses": ["Ornamental shrub", "Landscape plant", "Flowering hedge"]
+  },
+  "Thumbe": {
+    "common_name": "Leucas",
+    "scientific_name": "Leucas aspera",
+    "family": "Lamiaceae",
+    "local_nepali_name": "थुम्बे झार",
+    "description": "A small medicinal weed often used in traditional cough, fever, and wound care.",
+    "uses": ["Folk medicine", "Cough care", "Medicinal weed"]
+  },
+  "Tomato": {
+    "common_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "local_nepali_name": "गोलभेंडा",
+    "description": "A widely grown fruit vegetable used fresh, cooked, and processed in sauces.",
+    "uses": ["Cooking vegetable", "Salad fruit", "Sauce ingredient"]
+  },
+  "Tulsi": {
+    "common_name": "Holy Basil",
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "local_nepali_name": "तुलसी",
+    "description": "A sacred herb with aromatic leaves used in teas, rituals, and home remedies.",
+    "uses": ["Tea herb", "Sacred plant", "Home remedy"]
+  },
+  "Turmeric": {
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "local_nepali_name": "बेसार",
+    "description": "A rhizome crop whose bright yellow powder is used in cooking and skin care.",
+    "uses": ["Cooking spice", "Skin care", "Traditional medicine"]
+  }
+}

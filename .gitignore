@@ -1,0 +1,10 @@
+/plant_dataset
+/plant_dataset.zip
+/node_modules
+/.vscode
+/.env
+.DS_Store
+*.log
+*.tmp
+.ipynb_checkpoints
+/__pycache__
