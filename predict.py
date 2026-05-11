@@ -1,6 +1,4 @@
-# !/usr/bin/env python3
-"""Local plant identification inference service.
-
+"""
 Run as an API:
     python predict.py
 
