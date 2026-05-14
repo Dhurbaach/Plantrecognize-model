@@ -3,15 +3,6 @@ from bliptransformer.utils import get_plant_info, build_prompt
 
 
 def generate_caption_for_plant(image_path: str, class_name: str) -> dict | None:
-    """Generate caption for a plant given its image path and predicted class name.
-    
-    Args:
-        image_path: Path to the plant image
-        class_name: Predicted class name from the MobileNet model
-    
-    Returns:
-        Dictionary with plant info and generated caption, or None if info unavailable
-    """
     print(f"Predicted Class: {class_name}")
     class_name = class_name.replace(" ", "").strip()  # Remove spaces for matching
    

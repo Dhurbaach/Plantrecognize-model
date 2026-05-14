@@ -4,639 +4,959 @@
     "scientific_name": "Aloe vera",
     "family": "Asphodelaceae",
     "local_nepali_name": "घ्यूकुमारी",
-    "description": "A succulent with thick gel-filled leaves used for soothing skin and minor burns.",
-    "uses": ["Skin soothing", "Cooling gel", "Home remedy"]
-  },
-  "Amla": {
-    "common_name": "Indian Gooseberry",
-    "scientific_name": "Phyllanthus emblica",
-    "family": "Phyllanthaceae",
-    "local_nepali_name": "आँवला",
-    "description": "A small fruit tree known for sour vitamin-C-rich fruits used in wellness drinks and powders.",
-    "uses": ["Vitamin C source", "Digestive support", "Immune support"]
+    "description": "Aloe Vera is a succulent plant with thick, fleshy leaves filled with a clear gel widely used in traditional and modern medicine. It thrives in tropical and subtropical climates and is commonly grown in household gardens. The gel extracted from its leaves is rich in vitamins, minerals, and antioxidants.",
+    "uses": [
+      "Applied topically to soothe sunburns, minor cuts, and skin irritations.",
+      "Used as a natural moisturizer and ingredient in cosmetic products.",
+      "Consumed as a health drink to support digestion and boost immunity."
+    ]
   },
   "Amruthaballi": {
-    "common_name": "Giloy",
+    "common_name": "Giloy / Heartleaf Moonseed",
     "scientific_name": "Tinospora cordifolia",
     "family": "Menispermaceae",
     "local_nepali_name": "गुर्जो",
-    "description": "A climbing medicinal vine with bitter stems traditionally used for immunity support.",
-    "uses": ["Immunity support", "Fever care", "Traditional medicine"]
+    "description": "Amruthaballi is a climbing shrub with heart-shaped leaves, widely revered in Ayurvedic medicine as a potent immunomodulator. Its stem, roots, and leaves are all used medicinally and it often grows on neem or mango trees. The plant is known as 'Giloy' in Hindi and is considered a 'divine nectar' in traditional healing systems.",
+    "uses": [
+      "Used to boost immunity and help the body fight chronic infections and fevers.",
+      "Taken as a decoction to manage diabetes by regulating blood sugar levels.",
+      "Applied in traditional remedies to reduce inflammation and treat arthritis."
+    ]
   },
   "Arali": {
     "common_name": "Oleander",
     "scientific_name": "Nerium oleander",
     "family": "Apocynaceae",
-    "local_nepali_name": "कानेर",
-    "description": "An ornamental shrub with showy flowers commonly grown in gardens; it is toxic if ingested.",
-    "uses": ["Ornamental planting", "Garden hedge", "Landscape color"]
-  },
-  "ashoka": {
-    "common_name": "Ashoka Tree",
-    "scientific_name": "Saraca asoca",
-    "family": "Fabaceae",
-    "local_nepali_name": "अशोक",
-    "description": "A sacred ornamental tree with clustered flowers valued in traditional medicine and temple gardens.",
-    "uses": ["Ornamental tree", "Traditional medicine", "Sacred planting"]
-  },
-  "Astma_weed": {
-    "common_name": "Asthma Weed",
-    "scientific_name": "Euphorbia hirta",
-    "family": "Euphorbiaceae",
-    "local_nepali_name": "दमघुट्ने झार",
-    "description": "A small herb used in folk remedies for cough, asthma, and inflammation.",
-    "uses": ["Cough relief", "Asthma care", "Folk medicine"]
+    "local_nepali_name": "कनेर",
+    "description": "Arali, known as Oleander, is an ornamental shrub with beautiful pink, white, or red flowers found commonly in gardens and roadsides across South Asia. Despite its attractive appearance, all parts of the plant are highly toxic if ingested. In traditional medicine, it is used externally in very controlled amounts for specific skin and pest-control purposes.",
+    "uses": [
+      "Used externally in controlled traditional formulations to treat skin disorders such as eczema and scabies.",
+      "Employed in some folk remedies as a pesticide to repel insects and pests from crops.",
+      "Utilized ornamentally to beautify gardens, parks, and roadside landscapes."
+    ]
   },
   "Badipala": {
-    "common_name": "Local Medicinal Herb",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional medicinal or garden herb.",
-    "uses": ["Traditional remedy", "Home garden", "Regional plant"]
-  },
-  "Balloon_Vine": {
-    "common_name": "Balloon Vine",
-    "scientific_name": "Cardiospermum halicacabum",
-    "family": "Sapindaceae",
-    "local_nepali_name": "फुकेको दाना लहरा",
-    "description": "A climbing vine with inflated seed pods often used in folk medicine and as a learning sample.",
-    "uses": ["Climber", "Folk medicine", "Seed pod study"]
+    "common_name": "Calotropis / Giant Milkweed",
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "local_nepali_name": "आँक",
+    "description": "Badipala, commonly known as Giant Milkweed or Calotropis, is a large shrub with broad leaves and clusters of purple or white waxy flowers. It produces a milky latex sap that has medicinal properties when used carefully in traditional medicine. The plant is drought-resistant and often found in wastelands and dry areas of South Asia.",
+    "uses": [
+      "Used in Ayurvedic medicine to treat skin diseases, toothache, and digestive disorders.",
+      "Applied as an external remedy for joint pain and inflammation in traditional folk medicine.",
+      "Utilized as a natural insecticide and in fiber production from its stem bark."
+    ]
   },
   "Bamboo": {
     "common_name": "Bamboo",
     "scientific_name": "Bambusa vulgaris",
     "family": "Poaceae",
     "local_nepali_name": "बाँस",
-    "description": "A fast-growing grass with tall hollow culms used for construction, crafts, and shoots.",
-    "uses": ["Construction", "Craft material", "Edible shoots"]
+    "description": "Bamboo is one of the fastest-growing plants in the world and holds great ecological and economic importance across Asia. It is a woody grass with hollow, segmented stems used for construction, crafts, and food. Young bamboo shoots are edible and consumed as vegetables, while the mature plant provides strong and flexible material for numerous purposes.",
+    "uses": [
+      "Young shoots are consumed as a nutritious vegetable in various traditional cuisines.",
+      "Used extensively as a building material for furniture, scaffolding, and household items.",
+      "Employed in soil conservation efforts due to its extensive root system that prevents erosion."
+    ]
+  },
+  "Banmaso": {
+    "common_name": "Banmara / Forest killer",
+    "scientific_name": "Ageratina adenophora",
+    "family": "Asteraceae",
+    "local_nepali_name": "बनमासो",
+    "description": "Ageratina adenophora (Banmara / Crofton weed) is a fast-growing invasive shrub originally from Central America that has spread widely in Nepal and other regions. It forms dense thickets that outcompete native plants and reduce biodiversity. The plant is considered a major ecological threat and is also toxic to livestock if consumed in large amounts.",
+    "uses": [
+      " Leaf juice is traditionally used to stop bleeding in cuts and wounds due to its astringent properties. Some reports indicate it's used for treating skin issues and fevers",
+      " In some areas, it is used for composting to make manure, though it is not ideal..",
+      "They cause significant crop loss, increase agricultural production costs, and inhibit the regeneration of tree species in forests."
+    ]
   },
   "Beans": {
     "common_name": "Common Bean",
     "scientific_name": "Phaseolus vulgaris",
     "family": "Fabaceae",
     "local_nepali_name": "सिमी",
-    "description": "A common legume grown for edible pods and seeds rich in protein and fiber.",
-    "uses": ["Vegetable crop", "Protein source", "Fiber-rich food"]
+    "description": "Beans are one of the most widely cultivated legumes in the world, grown for their edible pods and seeds rich in protein and fiber. They are a staple food crop in Nepal and across South Asia, eaten in both fresh and dried forms. Beans also improve soil fertility through nitrogen fixation, making them valuable in sustainable farming.",
+    "uses": [
+      "Consumed as a protein-rich vegetable in curries, soups, and stews.",
+      "Dried beans are ground into flour or used in fermented food preparations.",
+      "Grown as a cover crop to enrich soil nitrogen and support sustainable agriculture."
+    ]
   },
   "Betel": {
     "common_name": "Betel Leaf",
     "scientific_name": "Piper betle",
     "family": "Piperaceae",
     "local_nepali_name": "पान",
-    "description": "A glossy climbing leaf chewed as paan and used in oral and digestive remedies.",
-    "uses": ["Chewing leaf", "Oral care", "Digestive aid"]
+    "description": "Betel is a perennial creeper plant with glossy, heart-shaped leaves widely chewed in South and Southeast Asia as a traditional stimulant. The leaves are often wrapped around areca nut, lime paste, and other ingredients to make 'paan', a popular mouth freshener. It holds cultural and religious significance across the Indian subcontinent.",
+    "uses": [
+      "Chewed as a traditional mouth freshener and mild stimulant in cultural practices.",
+      "Used in traditional medicine for its antiseptic properties to treat oral infections and wounds.",
+      "Offered during religious and ceremonial occasions as a symbol of respect and hospitality."
+    ]
+  },
+  "Bethee": {
+    "common_name": "Lamb's Quarter",
+    "scientific_name": "Chenopodium album",
+    "family": "Amaranthaceae",
+    "local_nepali_name": "बेथेको साग",
+    "description": "It tends to grow upright at first, reaching heights of 10-150 centimetres (4-59 in), rarely to 3 m); it then typically becomes recumbent after flowering (due to the weight of the foliage and seeds) unless supported by other plants. The leaves are alternate and varied in appearance. The first leaves, near the base of the plant, are toothed and roughly diamond-shaped, 3-7 cm long and 3-6 cm broad. The leaves on the upper part of the flowering stems are entire and lanceolate-rhomboid, 1-5 cm long and 0.4-2 cm broad; they are waxy-coated, unwettable and mealy in appearance, with a whitish coat on the underside.",
+    "uses": [
+      "High in Vitamin C and antioxidants that help fight infections and oxidative stress..",
+      "Contains flavonoids and copper that help raise HDL (good cholesterol) and manage blood pressure, reducing the risk of cardiovascular diseases.",
+      " Acts as a good glycemic agent, making it beneficial for stabilizing blood-glucose levels."
+    ]
+  },
+  "Bhojo": {
+    "common_name": "Acorus / Sweet Flag",
+    "scientific_name": "Acorus calamus",
+    "family": "Acoraceae",
+    "local_nepali_name": "बोझो",
+    "description": "Bhojo, known as Sweet Flag or Vacha in Ayurveda, is an aquatic or semi-aquatic plant with long sword-like leaves and aromatic rhizomes. The rhizome has a pleasant, spicy fragrance and is the primary medicinal part of the plant. It has been used for thousands of years in Ayurvedic, Chinese, and Native American medicinal traditions.",
+    "uses": [
+      "Rhizomes are used in Ayurvedic formulations to improve memory, concentration, and neurological function.",
+      "Applied as a remedy for digestive disorders, bloating, and loss of appetite.",
+      "Used in aromatherapy and as a natural insect repellent due to its strong aromatic compounds."
+    ]
   },
   "Bhrami": {
-    "common_name": "Brahmi",
+    "common_name": "Brahmi / Water Hyssop",
     "scientific_name": "Bacopa monnieri",
     "family": "Plantaginaceae",
     "local_nepali_name": "ब्राह्मी",
-    "description": "A creeping herb valued in Ayurveda for memory, calmness, and nervous system support.",
-    "uses": ["Memory support", "Calming herb", "Ayurvedic remedy"]
+    "description": "Bhrami, known as Brahmi, is a creeping herb found in wetlands and marshy areas across South Asia. It is one of the most revered brain-tonic herbs in Ayurveda, traditionally used to enhance memory and cognitive function. The plant has small, succulent leaves and white to light purple flowers.",
+    "uses": [
+      "Taken as a supplement or decoction to enhance memory, focus, and cognitive performance.",
+      "Used in Ayurvedic medicine to reduce anxiety, stress, and symptoms of depression.",
+      "Applied as a hair oil ingredient to promote scalp health and reduce hair fall."
+    ]
   },
   "Bringaraja": {
-    "common_name": "Bhringraj",
+    "common_name": "False Daisy / Bhringraj",
     "scientific_name": "Eclipta prostrata",
     "family": "Asteraceae",
-    "local_nepali_name": "भृङ्गराज",
-    "description": "A medicinal herb with small daisy-like flowers used for hair care and liver support.",
-    "uses": ["Hair care", "Liver support", "Traditional medicine"]
-  },
-  "camphor": {
-    "common_name": "Camphor Tree",
-    "scientific_name": "Cinnamomum camphora",
-    "family": "Lauraceae",
-    "local_nepali_name": "कपूर",
-    "description": "An aromatic evergreen tree known for strong-smelling leaves and medicinal oil.",
-    "uses": ["Aromatic oil", "Respiratory care", "Temple use"]
-  },
-  "Caricature": {
-    "common_name": "Caricature Plant",
-    "scientific_name": "Graptophyllum pictum",
-    "family": "Acanthaceae",
-    "local_nepali_name": "सजावटी पातको बोट",
-    "description": "An ornamental foliage plant with colorful leaves grown mainly for decorative use.",
-    "uses": ["Ornamental plant", "Landscape color", "Foliage display"]
+    "local_nepali_name": "भृंगराज",
+    "description": "Bringaraja, popularly known as Bhringraj, is a small herbaceous plant common in moist, low-lying areas of South Asia. It bears white daisy-like flowers and is one of the most important herbs in Ayurvedic medicine, particularly for hair and liver health. The whole plant is used medicinally in various traditional preparations.",
+    "uses": [
+      "Used extensively in hair oils and herbal preparations to prevent hair loss and promote hair growth.",
+      "Taken as a liver tonic in Ayurvedic formulations to support liver detoxification and function.",
+      "Applied topically on the skin to treat eczema, dermatitis, and other inflammatory skin conditions."
+    ]
   },
   "Castor": {
-    "common_name": "Castor",
+    "common_name": "Castor Plant",
     "scientific_name": "Ricinus communis",
     "family": "Euphorbiaceae",
-    "local_nepali_name": "एरण्ड",
-    "description": "A fast-growing plant whose seeds yield castor oil and whose leaves are used in folk care.",
-    "uses": ["Castor oil", "Folk remedy", "Industrial plant"]
+    "local_nepali_name": "अँडेरी / एरण्ड",
+    "description": "Castor is a tall, fast-growing shrub with large, star-shaped leaves and distinctive spiny seed pods that produce castor beans. The oil extracted from its seeds has been used for centuries in medicine, cosmetics, and industrial applications. Despite its usefulness, the raw seeds contain ricin, an extremely toxic compound, requiring careful processing.",
+    "uses": [
+      "Castor oil is used as a laxative to relieve constipation in traditional and modern medicine.",
+      "Applied topically to moisturize skin, condition hair, and promote hair growth.",
+      "Used industrially as a lubricant, in paint manufacturing, and as a base for biodiesel."
+    ]
   },
   "Catharanthus": {
-    "common_name": "Periwinkle",
+    "common_name": "Periwinkle / Sadabahar",
     "scientific_name": "Catharanthus roseus",
     "family": "Apocynaceae",
     "local_nepali_name": "सदाबहार",
-    "description": "A flowering plant with glossy leaves and pink or white blooms also used in pharmaceuticals.",
-    "uses": ["Ornamental flower", "Medicinal source", "Garden plant"]
+    "description": "Catharanthus, known as Periwinkle or Sadabahar, is a flowering plant with bright pink, white, or red flowers that bloom throughout the year. It is the source of important alkaloids — vincristine and vinblastine — used in modern cancer chemotherapy drugs. The plant is also used in traditional medicine for managing diabetes.",
+    "uses": [
+      "Alkaloids derived from the plant are used in pharmaceutical drugs to treat leukemia and other cancers.",
+      "Leaves are used in traditional remedies to help manage blood sugar levels in diabetic patients.",
+      "Grown as an ornamental garden plant due to its vibrant, long-lasting flowers."
+    ]
   },
   "Chakte": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species with garden or folk use.",
-    "uses": ["Regional plant", "Folk use", "Dataset class"]
+    "common_name": "Chakte / Flame of Forest",
+    "scientific_name": "Butea monosperma",
+    "family": "Fabaceae",
+    "local_nepali_name": "पलास",
+    "description": "Chakte, commonly known as Flame of the Forest or Palash, is a medium-sized deciduous tree famous for its brilliant orange-red flowers that bloom in late winter and early spring. The tree holds deep cultural and religious significance in Hindu traditions. Its flowers, bark, seeds, and gum are all used medicinally.",
+    "uses": [
+      "Flowers are used to prepare natural dyes and are boiled to make herbal infusions for skin and liver health.",
+      "Seeds are used in traditional medicine as an anthelmintic to expel intestinal worms.",
+      "The gum obtained from the tree is used as a substitute for gum arabic and in traditional wound healing."
+    ]
+  },
+  "Chameli": {
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum grandiflorum",
+    "family": "Oleaceae",
+    "local_nepali_name": "चमेली",
+    "description": "Chameli is a fragrant climbing shrub with delicate white flowers widely used in perfumery, garlands, and traditional ceremonies across South Asia. Its flowers are among the most aromatic in the plant kingdom and are harvested at dawn for maximum fragrance. It holds spiritual significance and is commonly used in religious offerings.",
+    "uses": [
+      "Flowers are used in the production of high-quality perfumes, essential oils, and cosmetics.",
+      "Used in traditional medicine to relieve stress, anxiety, and headaches through aromatherapy.",
+      "Offered in religious ceremonies and used to make flower garlands for festivals and weddings."
+    ]
   },
   "Chilly": {
     "common_name": "Chili Pepper",
     "scientific_name": "Capsicum annuum",
     "family": "Solanaceae",
     "local_nepali_name": "खुर्सानी",
-    "description": "A pepper plant with hot fruits used in cooking and as a source of capsaicin.",
-    "uses": ["Cooking spice", "Capsaicin source", "Pungent crop"]
+    "description": "Chili is one of the most widely consumed spices in the world, known for its pungent heat caused by the compound capsaicin. It is a fundamental ingredient in South Asian, Mexican, and many other cuisines. Beyond cooking, chili has significant medicinal properties including pain relief and metabolism-boosting effects.",
+    "uses": [
+      "Used as a pungent spice and flavoring agent in a vast range of culinary dishes worldwide.",
+      "Capsaicin extracted from chili is used in topical pain-relief creams for arthritis and muscle pain.",
+      "Consumed to boost metabolism and support cardiovascular health due to its antioxidant properties."
+    ]
   },
   "Citron lime (herelikai)": {
-    "common_name": "Lime",
-    "scientific_name": "Citrus limon",
+    "common_name": "Citron / Herelikai",
+    "scientific_name": "Citrus medica",
     "family": "Rutaceae",
-    "local_nepali_name": "कागती",
-    "description": "A citrus plant with sour fruits used in drinks, chutneys, and vitamin-C remedies.",
-    "uses": ["Fruit crop", "Vitamin C source", "Cooking and drinks"]
+    "local_nepali_name": "बिमिरो",
+    "description": "Citron is one of the original citrus fruits from which many modern citrus varieties have been derived. It has a thick, aromatic rind and is widely used in culinary, medicinal, and religious applications across South and Southeast Asia. The plant is known locally as Herelikai in Karnataka and similar names in neighboring regions.",
+    "uses": [
+      "The aromatic rind is used to prepare candied peel, preserves, and as a flavoring in beverages.",
+      "Used in traditional medicine to aid digestion, relieve nausea, and treat respiratory conditions.",
+      "Held as a sacred fruit used in Hindu and Jewish religious ceremonies and offerings."
+    ]
   },
   "Coffee": {
     "common_name": "Coffee",
     "scientific_name": "Coffea arabica",
     "family": "Rubiaceae",
     "local_nepali_name": "कफी",
-    "description": "A shrub or small tree grown for coffee cherries whose seeds are roasted for beverages.",
-    "uses": ["Beverage crop", "Roasted beans", "Commercial crop"]
+    "description": "Coffee is a tropical shrub whose seeds (coffee beans) are roasted and brewed to make one of the world's most popular beverages. Originally from Ethiopia, it is now cultivated extensively in Nepal's hilly regions as a commercial crop. The plant produces fragrant white flowers followed by red or yellow cherry-like fruits containing the coffee beans.",
+    "uses": [
+      "Roasted and ground coffee beans are brewed into the widely consumed stimulant beverage.",
+      "Coffee extract is used in cosmetics and skincare products for its antioxidant and energizing properties.",
+      "Grown as an export cash crop supporting the livelihoods of hill-farming communities in Nepal."
+    ]
   },
   "Common rue(naagdalli)": {
-    "common_name": "Rue",
+    "common_name": "Common Rue",
     "scientific_name": "Ruta graveolens",
     "family": "Rutaceae",
-    "local_nepali_name": "रू",
-    "description": "A strongly scented herb used in traditional medicine and as a repellent plant.",
-    "uses": ["Traditional medicine", "Repellent plant", "Aromatic herb"]
+    "local_nepali_name": "नागदल्ली",
+    "description": "Common Rue is a strongly aromatic, semi-woody herb with blue-green leaves and small yellow flowers. It has been used since antiquity in European and Asian traditional medicine and was once considered a universal antidote. The plant contains potent compounds and must be used with care, as large doses can be toxic.",
+    "uses": [
+      "Used in small amounts in traditional medicine to relieve menstrual cramps and regulate the menstrual cycle.",
+      "Employed as a natural insect repellent and hung in homes to ward off pests.",
+      "Used in folk remedies to treat headaches, eye strain, and muscle spasms."
+    ]
   },
   "Coriender": {
     "common_name": "Coriander",
     "scientific_name": "Coriandrum sativum",
     "family": "Apiaceae",
-    "local_nepali_name": "धनियाँ",
-    "description": "An edible herb grown for fresh leaves and seeds used in cooking and digestion.",
-    "uses": ["Edible herb", "Spice seed", "Digestive aid"]
+    "local_nepali_name": "धनिया",
+    "description": "Coriander is one of the world's oldest and most widely used culinary herbs, with both its fresh leaves and dried seeds used extensively in cooking. It is a fast-growing annual herb with feathery leaves and tiny white flowers. Its seeds and leaves contain distinct aromatic compounds that enhance the flavor of countless dishes.",
+    "uses": [
+      "Fresh leaves are used as a garnish and flavoring ingredient in curries, salads, and chutneys.",
+      "Dried seeds are ground into a spice powder used as a key ingredient in spice blends and curries.",
+      "Used in traditional medicine to aid digestion, reduce bloating, and lower blood sugar levels."
+    ]
   },
   "Curry": {
     "common_name": "Curry Leaf",
     "scientific_name": "Murraya koenigii",
     "family": "Rutaceae",
-    "local_nepali_name": "करी पात",
-    "description": "An aromatic tree whose leaves are widely used for seasoning and folk remedies.",
-    "uses": ["Seasoning", "Digestive aid", "Aromatic leaves"]
+    "local_nepali_name": "मिठो निम",
+    "description": "Curry Leaf is a small tropical tree native to South Asia whose aromatic leaves are an essential ingredient in South Indian cooking. The leaves release a distinctive, complex aroma when added to hot oil and are used fresh rather than dried for best flavor. Beyond culinary use, the plant has significant medicinal properties, especially for hair and blood sugar management.",
+    "uses": [
+      "Fresh leaves are used as a tempering ingredient in curries, dals, chutneys, and rice dishes.",
+      "Leaf extracts are used in hair care formulations to prevent premature greying and hair fall.",
+      "Taken in traditional medicine to help regulate blood glucose levels in diabetic patients."
+    ]
   },
   "Doddpathre": {
-    "common_name": "Indian Borage",
+    "common_name": "Indian Borage / Mexican Mint",
     "scientific_name": "Plectranthus amboinicus",
     "family": "Lamiaceae",
-    "local_nepali_name": "झ्याउरे पुदिना",
-    "description": "A thick-leaved aromatic herb used as a kitchen plant and for soothing coughs.",
-    "uses": ["Cough care", "Kitchen herb", "Aromatic plant"]
+    "local_nepali_name": "पत्थरचट",
+    "description": "Doddpathre, known as Indian Borage or Mexican Mint, is a fleshy, aromatic herb with velvety leaves and a strong oregano-like scent. It is widely grown in household gardens across South and Southeast Asia as a medicinal and culinary herb. The plant is drought-tolerant and propagates easily from cuttings.",
+    "uses": [
+      "Leaves are used in traditional remedies to relieve coughs, sore throats, and respiratory congestion.",
+      "Used in cooking as a flavoring herb, similar to thyme and oregano, in certain regional cuisines.",
+      "Applied topically as a poultice to treat insect bites, skin rashes, and minor wounds."
+    ]
   },
   "Drumstick": {
-    "common_name": "Drumstick Tree",
+    "common_name": "Moringa / Drumstick Tree",
     "scientific_name": "Moringa oleifera",
     "family": "Moringaceae",
-    "local_nepali_name": "सजिवन",
-    "description": "A nutritious tree known for long pods, edible leaves, and vitamin-rich home cooking.",
-    "uses": ["Leaf vegetable", "Pod vegetable", "Nutrition"]
+    "local_nepali_name": "सहिजन",
+    "description": "Drumstick tree, or Moringa, is often called the 'miracle tree' due to its exceptional nutritional and medicinal value. Almost every part of the tree — leaves, pods, seeds, flowers, bark, and roots — is edible or medicinally valuable. It is native to South Asia and is widely cultivated in tropical and subtropical regions for food, nutrition, and water purification.",
+    "uses": [
+      "Leaves are consumed as a highly nutritious vegetable and used in supplements to combat malnutrition.",
+      "Long seed pods (drumsticks) are cooked in curries and soups as a popular vegetable.",
+      "Seeds are used for natural water purification by coagulating impurities in contaminated water."
+    ]
   },
   "Ekka": {
-    "common_name": "Crown Flower",
-    "scientific_name": "Calotropis gigantea",
+    "common_name": "Calotropis / Swallow-wort",
+    "scientific_name": "Calotropis procera",
     "family": "Apocynaceae",
-    "local_nepali_name": "आक",
-    "description": "A milkweed-like shrub with pale flowers and latex, often used in traditional practices.",
-    "uses": ["Folk medicine", "Sacred plant", "Roadside shrub"]
+    "local_nepali_name": "आँकको बोट",
+    "description": "Ekka (Calotropis procera) is a large, drought-resistant shrub with thick, pale green leaves and clusters of small purple and white flowers. Like its close relative Calotropis gigantea, it produces a milky latex sap with medicinal properties. It grows commonly on dry, degraded lands and roadsides across South Asia.",
+    "uses": [
+      "Latex and leaf preparations are used in traditional medicine to treat skin diseases, leprosy, and toothache.",
+      "Stem fibers are used to make ropes and rough textiles in rural communities.",
+      "Flowers and roots are used in Ayurvedic formulations to treat digestive disorders and fever."
+    ]
   },
   "Eucalyptus": {
-    "common_name": "Eucalyptus",
+    "common_name": "Eucalyptus / Blue Gum",
     "scientific_name": "Eucalyptus globulus",
     "family": "Myrtaceae",
-    "local_nepali_name": "नीलगिरी",
-    "description": "A tall aromatic tree with oil-rich leaves commonly used for steam and respiratory care.",
-    "uses": ["Essential oil", "Respiratory care", "Timber tree"]
+    "local_nepali_name": "सफेदा",
+    "description": "Eucalyptus is a fast-growing tree native to Australia, widely planted in Nepal and India for its timber and medicinal essential oil. Its leaves contain a volatile oil rich in cineole (eucalyptol), which has potent antiseptic and decongestant properties. The tree is recognizable by its peeling bark and distinctively fragrant lance-shaped leaves.",
+    "uses": [
+      "Eucalyptus oil extracted from leaves is used in inhalants and balms to relieve nasal congestion and respiratory infections.",
+      "Used as a natural antiseptic ingredient in mouthwashes, throat lozenges, and disinfectant products.",
+      "Planted extensively for timber production and as a fast-growing source of firewood and pulpwood."
+    ]
+  },
+  "Gaja": {
+    "common_name": "Ganja / Marijuana",
+    "scientific_name": "Cannabis sativa",
+    "family": " Cannabaceae",
+    "local_nepali_name": "गाँजा",
+    "description": "Gaja, commonly known as Ganja or Marijuana, is a fast-growing annual plant with broad, serrated leaves and distinctive flowering tops. It is cultivated for its psychoactive properties and medicinal applications. The plant contains cannabinoids, particularly THC and CBD, which have various therapeutic effects.",
+    "uses": [
+      "The dried flowering tops and leaves are consumed for psychoactive effects.",
+      " Used for relief of pain, insomnia, anxiety, epilepsy, and nausea. It is mentioned in traditional Ayurveda to help with digestion and as a nervous system stimulant",
+      " Fiber from the stem is used for textiles, ropes, and paper. Seeds are used for oil and food."
+    ]
   },
   "Ganigale": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species with traditional or garden use.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+    "common_name": "Nochi / Five-leaved Chaste Tree",
+    "scientific_name": "Vitex negundo",
+    "family": "Lamiaceae",
+    "local_nepali_name": "सम्हालु",
+    "description": "Ganigale, known as Nochi or Five-leaved Chaste Tree, is a large aromatic shrub with compound leaves and spikes of small purple-blue flowers. It is widely used in Ayurvedic medicine for its anti-inflammatory, analgesic, and antimicrobial properties. The leaves, roots, and seeds all have medicinal applications.",
+    "uses": [
+      "Leaves are used in steam inhalation and topical applications to relieve joint pain, arthritis, and inflammation.",
+      "Leaf extracts are used in traditional medicine to treat fever, headaches, and respiratory conditions.",
+      "Seeds are used in Ayurvedic formulations for their anthelmintic and hormone-balancing properties."
+    ]
   },
   "Ganike": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species with traditional or garden use.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+    "common_name": "Turkey Berry / Indian Nightshade",
+    "scientific_name": "Solanum torvum",
+    "family": "Solanaceae",
+    "local_nepali_name": "भटकटैया",
+    "description": "Ganike, or Turkey Berry, is a prickly tropical shrub that produces small, round green berries clustered like tiny tomatoes. The berries are a popular culinary ingredient in South and Southeast Asian cooking. The plant is also valued in traditional medicine for its nutritional content and therapeutic properties.",
+    "uses": [
+      "Fruits are used in cooking, especially in curries and sambar, as a vegetable ingredient.",
+      "Used in traditional medicine to treat anemia due to its high iron content.",
+      "Fruit and root extracts are used in folk remedies to manage diabetes and digestive complaints."
+    ]
   },
   "Gasagase": {
-    "common_name": "Poppy",
+    "common_name": "Poppy Seeds",
     "scientific_name": "Papaver somniferum",
     "family": "Papaveraceae",
     "local_nepali_name": "खसखस",
-    "description": "A plant known for poppy-like seeds used in foods and as a calming ingredient.",
-    "uses": ["Seed spice", "Food ingredient", "Traditional use"]
+    "description": "Gasagase refers to poppy seeds, derived from the opium poppy plant grown for its small, kidney-shaped edible seeds used in cooking. The seeds themselves are non-narcotic and are widely used in South Asian and Middle Eastern cuisines. The plant is also the source of important opioid alkaloids used in pain management pharmaceuticals.",
+    "uses": [
+      "Seeds are used in cooking to add texture and nutty flavor to bread, pastries, and curries.",
+      "Ground seeds are used in traditional medicine as a mild sedative to promote sleep and relieve pain.",
+      "Poppy seed oil is used as a culinary oil and in the manufacture of soaps and paints."
+    ]
   },
   "Ginger": {
     "common_name": "Ginger",
     "scientific_name": "Zingiber officinale",
     "family": "Zingiberaceae",
     "local_nepali_name": "अदुवा",
-    "description": "A rhizome crop used fresh or dried for flavor, digestion, and warming remedies.",
-    "uses": ["Cooking spice", "Digestive aid", "Warming remedy"]
+    "description": "Ginger is one of the most widely used culinary spices and medicinal plants in the world, cultivated for its aromatic underground rhizome. Native to Southeast Asia, it has been used for at least 5,000 years in food, medicine, and spiritual practices. Its characteristic pungent and warming flavor comes from compounds like gingerol and shogaol.",
+    "uses": [
+      "Used fresh or dried as a fundamental spice in teas, curries, soups, and baked goods.",
+      "Taken as a natural remedy to relieve nausea, motion sickness, morning sickness, and indigestion.",
+      "Used in traditional medicine to reduce inflammation, boost immunity, and manage cold and flu symptoms."
+    ]
   },
   "Globe Amarnath": {
-    "common_name": "Globe Amaranth",
+    "common_name": "Globe Amaranth / Bachelor's Button",
     "scientific_name": "Gomphrena globosa",
     "family": "Amaranthaceae",
-    "local_nepali_name": "गोल अमरन्थ",
-    "description": "A decorative flowering plant with round blooms grown for garden color and bouquets.",
-    "uses": ["Ornamental flower", "Bouquets", "Garden color"]
+    "local_nepali_name": "माखामुली",
+    "description": "Globe Amaranth is a flowering annual plant known for its round, clover-like flower heads that come in vibrant shades of pink, purple, red, and white. The flowers retain their color after drying, making them popular for dried floral arrangements. In Nepal, the plant holds cultural significance during the Tihar festival.",
+    "uses": [
+      "Flowers are used to make garlands and offerings during Tihar (Diwali) and other Hindu festivals in Nepal.",
+      "Dried flowers are used in herbal teas to relieve coughs, colds, and headaches.",
+      "Grown as an ornamental garden plant for its long-lasting, colorful blooms."
+    ]
   },
-  "Guava": {
+  "Guva": {
     "common_name": "Guava",
     "scientific_name": "Psidium guajava",
     "family": "Myrtaceae",
     "local_nepali_name": "अम्बा",
-    "description": "A fruit tree with sweet edible fruits and leaves often used in home remedies.",
-    "uses": ["Fruit crop", "Leaf remedy", "Nutritional fruit"]
+    "description": "Guava is a tropical fruit tree beloved for its sweet, fragrant fruits rich in vitamin C, dietary fiber, and antioxidants. Native to Central America, it is now widely cultivated across Nepal and South Asia. Both the fruit and leaves of the guava tree have significant medicinal properties.",
+    "uses": [
+      "Fruits are consumed fresh or made into juices, jams, and jellies as a nutritious food source.",
+      "Leaf tea is drunk as a traditional remedy to control diarrhea, lower blood sugar, and boost immunity.",
+      "Bark and leaf extracts are used topically to treat wounds, oral infections, and skin inflammation."
+    ]
   },
   "Henna": {
-    "common_name": "Henna",
+    "common_name": "Henna / Lawsonia",
     "scientific_name": "Lawsonia inermis",
     "family": "Lythraceae",
     "local_nepali_name": "मेहन्दी",
-    "description": "A shrub whose leaves are used to make natural dye for skin and hair.",
-    "uses": ["Natural dye", "Hair care", "Body art"]
+    "description": "Henna is a small flowering shrub whose leaves contain a natural reddish-orange dye compound called lawsone. It has been used for centuries in South Asia, the Middle East, and North Africa for body art, hair coloring, and medicinal purposes. The plant thrives in hot, arid climates and holds deep cultural significance in wedding and festive traditions.",
+    "uses": [
+      "Ground leaf paste is applied to skin and hair as a natural reddish dye for body art and hair conditioning.",
+      "Used in traditional medicine for its antimicrobial and cooling properties to treat skin conditions and fever.",
+      "Applied to the palms and feet during wedding ceremonies and festivals as a symbol of beauty and good fortune."
+    ]
   },
   "Hibiscus": {
-    "common_name": "Hibiscus",
+    "common_name": "Hibiscus / Rosemallow",
     "scientific_name": "Hibiscus rosa-sinensis",
     "family": "Malvaceae",
-    "local_nepali_name": "जवा फूल",
-    "description": "A flowering shrub with bright blooms used in gardens and hair or skin care.",
-    "uses": ["Ornamental flower", "Hair care", "Skin care"]
+    "local_nepali_name": "जबा फूल",
+    "description": "Hibiscus is a tropical flowering shrub with large, brightly colored flowers that are a symbol of beauty across South and Southeast Asia. The flowers and leaves are edible and used in beverages and traditional medicine. It is Nepal's national flower — the Lali Guras (rhododendron) is the official national flower, while Hibiscus remains culturally significant in many parts of South Asia.",
+    "uses": [
+      "Flowers are used to prepare herbal teas and infusions known for their high vitamin C content and antioxidant properties.",
+      "Flower and leaf pastes are used in hair care to condition hair, prevent dandruff, and promote hair growth.",
+      "Used in traditional medicine to lower blood pressure and manage cholesterol levels."
+    ]
   },
   "Honge": {
-    "common_name": "Pongamia Tree",
-    "scientific_name": "Pongamia pinnata",
+    "common_name": "Indian Beech / Pongam Tree",
+    "scientific_name": "Millettia pinnata",
     "family": "Fabaceae",
-    "local_nepali_name": "करन्ज",
-    "description": "A medium-sized tree known for oil-bearing seeds and shade along roadsides.",
-    "uses": ["Shade tree", "Oil seed", "Roadside planting"]
+    "local_nepali_name": "करञ्ज",
+    "description": "Honge, known as Indian Beech or Pongam, is a medium-sized semi-evergreen tree with fragrant white and pink flowers and oval seed pods. Its seeds yield a non-edible oil called pongamia or karanja oil, which has extensive medicinal and industrial applications. The tree is also recognized as a valuable biofuel crop.",
+    "uses": [
+      "Seed oil is used in traditional medicine as an antiseptic ointment for skin diseases, eczema, and scabies.",
+      "Oil is used as a biofuel and in the production of soap and lamp oil in rural areas.",
+      "The tree is planted for reforestation, shade, and as a nitrogen-fixing plant to improve soil fertility."
+    ]
   },
   "Insulin": {
-    "common_name": "Insulin Plant",
-    "scientific_name": "Costus igneus",
+    "common_name": "Insulin Plant / Costus",
+    "scientific_name": "Costus pictus",
     "family": "Costaceae",
     "local_nepali_name": "इन्सुलिन बिरुवा",
-    "description": "A medicinal plant commonly called the insulin plant and used in folk care for sugar support.",
-    "uses": ["Folk medicine", "Sugar support", "Medicinal leaf"]
+    "description": "The Insulin Plant is a tropical herb that has gained significant attention for its traditional use in managing diabetes. Its large, spiral-arranged leaves are consumed to help regulate blood glucose levels, earning it the common name 'insulin plant.' It is increasingly grown in household gardens across South Asia as a diabetic herb.",
+    "uses": [
+      "Leaves are chewed or consumed as a tea in traditional medicine to help lower and regulate blood sugar levels.",
+      "Used as a supplementary herbal remedy alongside conventional treatment for type-2 diabetes management.",
+      "Grown as an ornamental plant in gardens due to its attractive spiral leaf arrangement."
+    ]
   },
   "Jackfruit": {
     "common_name": "Jackfruit",
     "scientific_name": "Artocarpus heterophyllus",
     "family": "Moraceae",
-    "local_nepali_name": "रुखकाटहर",
-    "description": "A large tropical tree that produces the biggest tree-borne fruit and edible bulbs.",
-    "uses": ["Fruit crop", "Seed food", "Culinary tree"]
+    "local_nepali_name": "रुखकटहर",
+    "description": "Jackfruit is the largest tree-borne fruit in the world, native to South and Southeast Asia. The unripe fruit has a meat-like texture and is widely used as a vegetable, while the ripe fruit is sweet and fragrant. It is highly nutritious and increasingly popular globally as a plant-based meat substitute.",
+    "uses": [
+      "Unripe fruit is cooked as a vegetable in curries and is used as a plant-based meat substitute in vegan cooking.",
+      "Ripe fruit is consumed fresh or used to make desserts, juices, and dried fruit snacks.",
+      "Seeds are boiled or roasted and eaten as a nutritious snack rich in protein and starch."
+    ]
   },
   "Jasmine": {
-    "common_name": "Jasmine",
-    "scientific_name": "Jasminum sambac",
+    "common_name": "Common Jasmine",
+    "scientific_name": "Jasminum officinale",
     "family": "Oleaceae",
-    "local_nepali_name": "चमेली",
-    "description": "A fragrant flowering plant prized for garlands, tea, and calming aroma.",
-    "uses": ["Fragrant flower", "Garlands", "Tea and aroma"]
+    "local_nepali_name": "जुही / चमेली",
+    "description": "Jasmine is a beloved flowering vine or shrub world-renowned for the intense, sweet fragrance of its white flowers. It is a staple in perfumery and is used extensively in religious, ceremonial, and cosmetic contexts across Asia. The plant blooms profusely, especially in the evenings, filling gardens with its captivating scent.",
+    "uses": [
+      "Flowers are distilled to extract jasmine essential oil used in luxury perfumes and aromatherapy products.",
+      "Used in traditional medicine and aromatherapy to relieve anxiety, stress, and depression.",
+      "Flowers are used to make garlands for religious offerings and to scent jasmine tea."
+    ]
   },
-  "kamakasturi": {
-    "common_name": "Musk Mallow",
-    "scientific_name": "Abelmoschus moschatus",
-    "family": "Malvaceae",
-    "local_nepali_name": "मस्क मल्लो",
-    "description": "A soft herb with musky aroma used as a decorative and medicinal plant.",
-    "uses": ["Aromatic herb", "Traditional medicine", "Decorative plant"]
+  "Kagati": {
+    "common_name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "local_nepali_name": "कागती",
+    "description": "Kagati, or Lemon, is one of the most widely cultivated citrus fruits, valued for its acidic juice, fragrant zest, and high vitamin C content. It is native to Northeast India and is now grown across the world in tropical and subtropical climates. Lemon is indispensable in culinary, medicinal, and cleaning applications.",
+    "uses": [
+      "Lemon juice is used extensively in cooking, beverages, pickling, and as a souring agent in various cuisines.",
+      "Consumed as a natural source of vitamin C to boost immunity and support skin health.",
+      "Used as a natural cleaning agent and deodorizer due to its acidic and antibacterial properties."
+    ]
   },
   "Kambajala": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+    "common_name": "Water Hyacinth",
+    "scientific_name": "Eichhornia crassipes",
+    "family": "Pontederiaceae",
+    "local_nepali_name": "जलकुम्भी",
+    "description": "Water Hyacinth is a free-floating aquatic plant with distinctive swollen, spongy petioles and beautiful purple-blue flower spikes. Though considered an invasive weed in many countries, it has practical uses in water purification, composting, and handicrafts. It grows rapidly on water surfaces and can double in biomass within two weeks under favorable conditions.",
+    "uses": [
+      "Used in water bodies to absorb heavy metals and pollutants, aiding in natural water purification.",
+      "Dried plant material is used to weave baskets, furniture, and other handicrafts.",
+      "Used as compost and organic mulch to improve soil fertility in agricultural practices."
+    ]
   },
   "Kasambruga": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
-  },
-  "kepala": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species used in traditional or garden settings.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+    "common_name": "Kasambruga / Wild Senna",
+    "scientific_name": "Senna occidentalis",
+    "family": "Fabaceae",
+    "local_nepali_name": "कासमर्दा",
+    "description": "Kasambruga, commonly known as Coffee Senna or Wild Senna, is a weedy herb or small shrub found in disturbed areas, roadsides, and agricultural fields. Its bright yellow flowers and elongated seed pods are distinctive features. In traditional medicine, various parts of the plant are used for their laxative, antifungal, and antimalarial properties.",
+    "uses": [
+      "Leaves and seeds are used in traditional medicine as a laxative to relieve constipation.",
+      "Used in folk remedies to treat skin fungal infections, ringworm, and eczema.",
+      "Root and leaf extracts are used in traditional treatments for fever and malaria."
+    ]
   },
   "Kohlrabi": {
     "common_name": "Kohlrabi",
     "scientific_name": "Brassica oleracea var. gongylodes",
     "family": "Brassicaceae",
-    "local_nepali_name": "कोहलरबी",
-    "description": "A cool-season vegetable with an edible swollen stem used in salads and cooking.",
-    "uses": ["Vegetable crop", "Salad ingredient", "Stem vegetable"]
+    "local_nepali_name": "गाँठकोबी",
+    "description": "Kohlrabi is a cool-season vegetable with a bulbous, swollen stem that is eaten raw or cooked. It belongs to the cabbage family and has a mild, sweet flavor similar to broccoli stems or turnips. It is a popular vegetable in Nepal and many parts of South Asia during winter months.",
+    "uses": [
+      "Consumed as a nutritious vegetable in salads, stir-fries, soups, and curries.",
+      "Rich in vitamin C and fiber, it is eaten to support digestive health and boost immunity.",
+      "Leaves are also edible and used as a leafy green vegetable in local cuisines."
+    ]
   },
   "Lantana": {
-    "common_name": "Lantana",
+    "common_name": "Lantana / Wild Sage",
     "scientific_name": "Lantana camara",
     "family": "Verbenaceae",
-    "local_nepali_name": "लन्ताना",
-    "description": "A hardy flowering shrub with clusters of small blooms often seen as an invasive ornamental.",
-    "uses": ["Ornamental shrub", "Hedge plant", "Pollinator plant"]
-  },
-  "Lemon": {
-    "common_name": "Lemon",
-    "scientific_name": "Citrus limon",
-    "family": "Rutaceae",
-    "local_nepali_name": "कागती",
-    "description": "A sour citrus fruit tree with acidic fruits used in drinks, cooking, and cleaning.",
-    "uses": ["Fruit crop", "Cooking", "Vitamin C source"]
-  },
-  "Lemongrass": {
-    "common_name": "Lemongrass",
-    "scientific_name": "Cymbopogon citratus",
-    "family": "Poaceae",
-    "local_nepali_name": "लेमन घाँस",
-    "description": "A tall aromatic grass used in teas, soups, and mosquito-repelling gardens.",
-    "uses": ["Tea herb", "Aromatic grass", "Mosquito repellent"]
+    "local_nepali_name": "लन्टाना",
+    "description": "Lantana is a tropical shrub with clusters of small, multi-colored flowers that change color as they age, giving each flower cluster a rainbow-like appearance. Originally from the Americas, it has become one of the most invasive plant species in Asia and Africa. Despite being ecologically disruptive, it has applications in traditional medicine.",
+    "uses": [
+      "Leaves and roots are used in traditional medicine to treat skin diseases, fever, and respiratory conditions.",
+      "Flower clusters are used for making low-cost garlands and decorative arrangements.",
+      "Plant material is studied for its allelopathic compounds as a potential natural herbicide."
+    ]
   },
   "Malabar_Nut": {
-    "common_name": "Malabar Nut",
+    "common_name": "Malabar Nut / Adulsa",
     "scientific_name": "Justicia adhatoda",
     "family": "Acanthaceae",
-    "local_nepali_name": "असुरो",
-    "description": "A medicinal shrub with lance-shaped leaves used for cough, bronchitis, and breathing support.",
-    "uses": ["Cough care", "Breathing support", "Medicinal shrub"]
+    "local_nepali_name": "अधुसो",
+    "description": "Malabar Nut, known as Adulsa or Vasaka, is one of the most important medicinal plants in Ayurveda, particularly for treating respiratory diseases. It is a shrub with large, lance-shaped leaves and white tubular flowers. The active compound vasicine found in the plant is the basis for the modern bronchodilator drug bromhexine.",
+    "uses": [
+      "Leaves and roots are used in Ayurvedic medicine to treat bronchitis, asthma, and chronic cough.",
+      "Leaf extracts serve as a natural expectorant to loosen phlegm and clear respiratory passages.",
+      "Used in traditional formulations to reduce fever and treat tuberculosis-related symptoms."
+    ]
   },
   "Malabar_Spinach": {
-    "common_name": "Malabar Spinach",
+    "common_name": "Malabar Spinach / Vine Spinach",
     "scientific_name": "Basella alba",
     "family": "Basellaceae",
-    "local_nepali_name": "पोइ साग",
-    "description": "A leafy climbing vegetable with succulent leaves eaten as a green leafy crop.",
-    "uses": ["Leafy vegetable", "Climbing crop", "Nutritional green"]
+    "local_nepali_name": "पोई साग",
+    "description": "Malabar Spinach is a fast-growing, succulent, perennial vine with glossy, thick leaves and stems used as a leafy green vegetable. It is especially popular in tropical South and Southeast Asian cuisines as a spinach substitute that thrives in hot, humid conditions where regular spinach struggles. Its mucilaginous leaves make it suitable as a natural thickener in soups and stews.",
+    "uses": [
+      "Leaves and tender stems are consumed as a nutritious leafy vegetable in curries, soups, and stir-fries.",
+      "Rich in iron, calcium, and vitamins A and C, it is eaten to address nutritional deficiencies.",
+      "Used in traditional medicine as a natural laxative and to treat skin inflammation and constipation."
+    ]
   },
   "Mango": {
     "common_name": "Mango",
     "scientific_name": "Mangifera indica",
     "family": "Anacardiaceae",
     "local_nepali_name": "आँप",
-    "description": "A tropical fruit tree valued for its sweet fruits and medicinal leaves and bark.",
-    "uses": ["Fruit crop", "Shade tree", "Traditional medicine"]
+    "description": "Mango is the 'King of Fruits,' a beloved tropical fruit tree native to South Asia and one of the most widely cultivated fruit trees in the world. Nepal's Terai region is known for producing excellent mango varieties. Almost every part of the tree — fruit, leaves, bark, flowers, and seed kernel — has culinary or medicinal applications.",
+    "uses": [
+      "Ripe fruits are consumed fresh, or processed into juices, pickles, chutneys, and dried products.",
+      "Unripe green mangoes are used to make tangy chutneys, pickles, and the popular drink 'aam panna.'",
+      "Leaves are used in religious ceremonies, and bark extracts are used in traditional medicine to treat diarrhea and inflammation."
+    ]
   },
   "Marigold": {
     "common_name": "Marigold",
     "scientific_name": "Tagetes erecta",
     "family": "Asteraceae",
     "local_nepali_name": "सयपत्री",
-    "description": "A bright ornamental flower commonly used in garlands, gardens, and pest control.",
-    "uses": ["Garlands", "Ornamental flower", "Pest control"]
-  },
-  "Mint": {
-    "common_name": "Mint",
-    "scientific_name": "Mentha spicata",
-    "family": "Lamiaceae",
-    "local_nepali_name": "पुदिना",
-    "description": "A cool aromatic herb used in chutneys, drinks, and digestive remedies.",
-    "uses": ["Culinary herb", "Digestive aid", "Refreshing leaves"]
+    "description": "Marigold is one of the most culturally significant flowers in Nepal, used extensively during the Dashain and Tihar festivals to make garlands, offerings, and decorations. The plant has bright orange and yellow flowers rich in carotenoids and flavonoids. Beyond decoration, marigolds have medicinal, cosmetic, and agricultural applications.",
+    "uses": [
+      "Flowers are used to make garlands for religious offerings, festivals, and ceremonies in Nepal.",
+      "Flower extracts are used in skin creams and lotions for their anti-inflammatory and wound-healing properties.",
+      "Grown as a companion plant in gardens to repel insects and protect crops naturally."
+    ]
   },
   "Neem": {
     "common_name": "Neem",
     "scientific_name": "Azadirachta indica",
     "family": "Meliaceae",
-    "local_nepali_name": "निम",
-    "description": "A bitter medicinal tree with leaves, bark, and seed oil used in many traditional practices.",
-    "uses": ["Medicinal tree", "Pest control", "Skin care"]
+    "local_nepali_name": "नीम",
+    "description": "Neem is one of the most versatile and important medicinal trees in South Asia, often called the 'village pharmacy' due to the wide range of ailments it can treat. The tree has bitter leaves, bark, and seeds, all of which contain potent bioactive compounds including azadirachtin. Every part of the neem tree has been used in traditional Ayurvedic medicine for over 4,000 years.",
+    "uses": [
+      "Leaves and bark are used in traditional medicine as a powerful antimicrobial, antifungal, and anti-inflammatory agent.",
+      "Neem oil extracted from seeds is used in organic pesticides, cosmetics, and dental care products.",
+      "Neem twigs are used as natural toothbrushes due to their strong antibacterial properties for oral hygiene."
+    ]
   },
   "Nelavembu": {
-    "common_name": "Kalmegh",
+    "common_name": "King of Bitters / Creat",
     "scientific_name": "Andrographis paniculata",
     "family": "Acanthaceae",
     "local_nepali_name": "कालमेघ",
-    "description": "A bitter herb used in folk medicine for fever, liver support, and digestion.",
-    "uses": ["Fever care", "Liver support", "Bitter tonic"]
+    "description": "Nelavembu, known as King of Bitters or Kalmegh, is an intensely bitter annual herb widely used in Ayurvedic and traditional Chinese medicine. The plant is famous for its active compound andrographolide, which has proven immunostimulant, anti-inflammatory, and antiviral properties. It gained international attention for its potential use in managing COVID-19 in some studies.",
+    "uses": [
+      "Used in traditional medicine as a potent remedy for fevers, influenza, and respiratory tract infections.",
+      "Taken to support liver health, boost immunity, and protect against bacterial and viral infections.",
+      "Used in formulations to treat digestive disorders, diarrhea, and inflammation of the gastrointestinal tract."
+    ]
   },
   "Nerale": {
-    "common_name": "Jamun",
+    "common_name": "Black Plum / Java Plum",
     "scientific_name": "Syzygium cumini",
     "family": "Myrtaceae",
     "local_nepali_name": "जामुन",
-    "description": "A fruit tree with dark juicy berries commonly eaten fresh and used in home remedies.",
-    "uses": ["Fruit crop", "Digestive aid", "Traditional remedy"]
+    "description": "Nerale, known as Java Plum or Jamun, is a large tropical evergreen tree producing clusters of small, oblong, deep purple to black fruits. The fruit has a distinctive tart-sweet flavor and stains the mouth and tongue purple when eaten. It is particularly valued for its antidiabetic properties and is an important part of traditional South Asian medicine.",
+    "uses": [
+      "Fruits are consumed fresh for their nutritious value and are used to make vinegar, wine, and preserves.",
+      "Seeds, bark, and fruit are used in Ayurvedic medicine to help manage diabetes and regulate blood sugar levels.",
+      "Bark decoctions are used to treat diarrhea, dysentery, and oral health conditions."
+    ]
   },
   "Nooni": {
-    "common_name": "Noni",
+    "common_name": "Noni / Indian Mulberry",
     "scientific_name": "Morinda citrifolia",
     "family": "Rubiaceae",
-    "local_nepali_name": "नोनी",
-    "description": "A tropical fruit plant known as noni, used in traditional wellness preparations.",
-    "uses": ["Traditional wellness", "Fruit plant", "Herbal preparation"]
+    "local_nepali_name": "आच",
+    "description": "Noni is a small tropical tree native to Southeast Asia and the Pacific Islands, known for its unusual, strongly odored greenish-white fruits. Despite its pungent smell, noni fruit, juice, and leaves are widely used in traditional medicine and modern health supplements. The plant is revered in Hawaiian and Polynesian healing traditions.",
+    "uses": [
+      "Fruit juice is consumed as a health supplement believed to boost immunity and reduce inflammation.",
+      "Leaves are used topically in traditional medicine to relieve joint pain, headaches, and fever.",
+      "Used in traditional Pacific Islander medicine to treat a wide range of ailments from digestive issues to hypertension."
+    ]
   },
   "Onion": {
     "common_name": "Onion",
     "scientific_name": "Allium cepa",
     "family": "Amaryllidaceae",
     "local_nepali_name": "प्याज",
-    "description": "A bulb vegetable used as a base ingredient in cooking and flavor building.",
-    "uses": ["Cooking base", "Bulb vegetable", "Flavoring"]
+    "description": "Onion is one of the oldest and most widely cultivated vegetables in the world, used as a foundational culinary ingredient in almost every cuisine. It is a bulbous plant containing sulfur compounds responsible for its distinctive pungent flavor and aroma. Beyond cooking, onions have significant antimicrobial, anti-inflammatory, and antioxidant properties.",
+    "uses": [
+      "Used as a fundamental flavoring base in curries, soups, salads, and virtually all savory dishes globally.",
+      "Consumed for its medicinal properties to support heart health, regulate blood sugar, and boost immunity.",
+      "Raw onion juice is applied topically in traditional remedies to treat hair loss, insect bites, and skin infections."
+    ]
   },
   "Padri": {
-    "common_name": "Local Plant",
-    "scientific_name": "Unknown",
-    "family": "Unknown",
-    "local_nepali_name": "उपलब्ध छैन",
-    "description": "A local dataset plant representing a regional species used in traditional or ornamental settings.",
-    "uses": ["Regional plant", "Dataset class", "Traditional use"]
+    "common_name": "Indian Trumpet Flower / Padri Tree",
+    "scientific_name": "Stereospermum chelonoides",
+    "family": "Bignoniaceae",
+    "local_nepali_name": "पाडरी",
+    "description": "Padri is a medium to large deciduous tree found in subtropical forests of the Indian subcontinent, known for its showy pink or yellow tubular flowers. It is one of the ten plants in the Ayurvedic group 'Dashamoola,' used in compound medicinal formulations. The bark and roots are the primary medicinal parts of the tree.",
+    "uses": [
+      "Bark and root are used in Ayurvedic Dashamoola formulations to treat inflammation, fever, and rheumatic conditions.",
+      "Taken in traditional medicine to treat urinary disorders and respiratory diseases.",
+      "Used as a component in herbal tonics to improve general health and reduce fatigue."
+    ]
   },
   "Palak(Spinach)": {
     "common_name": "Spinach",
     "scientific_name": "Spinacia oleracea",
     "family": "Amaranthaceae",
-    "local_nepali_name": "पालुङ्गो",
-    "description": "A leafy vegetable grown for nutritious green leaves used in cooking.",
-    "uses": ["Leafy vegetable", "Nutrition", "Cooking green"]
+    "local_nepali_name": "पालुंगो",
+    "description": "Spinach is a cool-season leafy green vegetable packed with iron, calcium, vitamins A, C, and K, and powerful antioxidants. Originating from Central Asia, it is now one of the most widely consumed leafy vegetables worldwide. It can be eaten raw in salads or cooked in curries, soups, and pasta dishes.",
+    "uses": [
+      "Consumed as a nutritious leafy vegetable in curries, soups, salads, and smoothies.",
+      "Eaten to boost iron intake and support management of iron-deficiency anemia.",
+      "Rich in antioxidants and vitamins, it is consumed to support eye health, bone health, and immunity."
+    ]
   },
   "Papaya": {
     "common_name": "Papaya",
     "scientific_name": "Carica papaya",
     "family": "Caricaceae",
     "local_nepali_name": "मेवा",
-    "description": "A fast-growing fruit tree with soft orange flesh and enzyme-rich leaves and fruits.",
-    "uses": ["Fruit crop", "Digestive support", "Leaf remedy"]
+    "description": "Papaya is a fast-growing tropical fruit tree producing large, orange-fleshed fruits rich in vitamin C, vitamin A, and the enzyme papain. Native to Central America, it is widely cultivated in Nepal's Terai and mid-hill regions. Both the fruit and leaves have significant culinary and medicinal uses.",
+    "uses": [
+      "Ripe fruits are consumed fresh or juiced for their high nutritional value and digestive enzyme papain.",
+      "Unripe green papaya is used as a vegetable in salads, curries, and pickles across South and Southeast Asia.",
+      "Leaf extracts are used in traditional medicine to treat dengue fever by helping increase platelet counts."
+    ]
   },
   "Parijatha": {
-    "common_name": "Parijatha",
+    "common_name": "Night Jasmine / Coral Jasmine",
     "scientific_name": "Nyctanthes arbor-tristis",
     "family": "Oleaceae",
     "local_nepali_name": "पारिजात",
-    "description": "A small sacred tree with fragrant night-blooming flowers used in rituals and remedies.",
-    "uses": ["Sacred tree", "Fragrant flowers", "Traditional remedy"]
+    "description": "Parijatha, known as Night-Blooming Jasmine or Harshringar, is a small, sacred tree that blooms only at night, scattering its fragrant white flowers with orange stalks on the ground by morning. It holds deep mythological significance in Hindu traditions, appearing in stories from the Mahabharata and Puranas. The flowers, leaves, and bark are all used medicinally.",
+    "uses": [
+      "Flowers are offered in religious ceremonies and are believed to be sacred to Lord Vishnu in Hindu tradition.",
+      "Leaf and bark extracts are used in Ayurvedic medicine to treat arthritis, joint pain, and fever.",
+      "Bark decoctions are used as a traditional remedy for malaria, sciatica, and digestive disorders."
+    ]
+  },
+  "Pati": {
+    "common_name": "Davana / Artemisia",
+    "scientific_name": "Artemisia pallens",
+    "family": "Asteraceae",
+    "local_nepali_name": "तितेपाती",
+    "description": "Pati, commonly known as Titepati or Davana, is a strongly aromatic herb with deeply lobed, silvery-green leaves used in religious rituals and traditional medicine. It is particularly important during the Hindu festival of Dashain in Nepal, where its fragrant leaves are used in worship. The plant also has significant medicinal properties as an antiseptic and antiparasitic agent.",
+    "uses": [
+      "Leaves are used as a sacred offering during the Dashain festival and Hindu religious ceremonies in Nepal.",
+      "Used in traditional medicine as an antimicrobial and antiparasitic remedy to treat intestinal worms.",
+      "Essential oil distilled from the plant is used in perfumery and aromatherapy for its distinctive fragrance."
+    ]
   },
   "Pea": {
-    "common_name": "Pea",
+    "common_name": "Garden Pea",
     "scientific_name": "Pisum sativum",
     "family": "Fabaceae",
     "local_nepali_name": "केराउ",
-    "description": "A cool-season legume grown for edible green pods and seeds.",
-    "uses": ["Legume crop", "Vegetable pod", "Protein source"]
-  },
-  "Pepper": {
-    "common_name": "Black Pepper",
-    "scientific_name": "Piper nigrum",
-    "family": "Piperaceae",
-    "local_nepali_name": "मरिच",
-    "description": "A climbing vine grown for black peppercorns used as a pungent spice.",
-    "uses": ["Spice crop", "Climbing vine", "Digestive aid"]
+    "description": "Pea is a cool-season legume grown for its round, edible seeds enclosed in long, green pods. It is one of the oldest cultivated plants in the world and is a valuable source of protein, fiber, and essential vitamins. Both the seeds and young pods are consumed as vegetables, and the plant improves soil fertility through nitrogen fixation.",
+    "uses": [
+      "Tender seeds and pods are consumed as a protein-rich vegetable in curries, soups, and salads.",
+      "Dried peas are cooked as a nutritious lentil substitute or processed into pea flour.",
+      "Grown as a cover crop to improve soil nitrogen content and benefit subsequent crop yields."
+    ]
   },
   "Pomoegranate": {
     "common_name": "Pomegranate",
     "scientific_name": "Punica granatum",
     "family": "Lythraceae",
     "local_nepali_name": "अनार",
-    "description": "A fruit tree with arils rich in antioxidants, eaten fresh or juiced.",
-    "uses": ["Fruit crop", "Antioxidant fruit", "Juice and food"]
+    "description": "Pomegranate is a fruit-bearing deciduous shrub or small tree known for its distinctive jewel-like red arils (seeds) that are extraordinarily rich in antioxidants, particularly punicalagins and anthocyanins. Native to the Middle East, it has been cultivated in South Asia for thousands of years. The fruit, juice, peel, and bark all have culinary and medicinal applications.",
+    "uses": [
+      "Arils and juice are consumed as a highly nutritious fruit and antioxidant-rich beverage.",
+      "Used in traditional medicine to treat diarrhea, dysentery, intestinal parasites, and inflammation.",
+      "Peel extracts are used in herbal formulations for their strong antibacterial and antifungal properties."
+    ]
+  },
+  "Pudina": {
+    "common_name": "Peppermint / Spearmint",
+    "scientific_name": "Mentha spicata",
+    "family": "Lamiaceae",
+    "local_nepali_name": "पुदिना",
+    "description": "Pudina (mint) is a fast-spreading aromatic herb with fresh, cool menthol fragrance widely used in South Asian cooking, beverages, and traditional medicine. It grows vigorously in moist environments and is a common kitchen garden herb. The menthol in mint leaves gives it cooling, analgesic, and digestive properties.",
+    "uses": [
+      "Fresh leaves are used as a flavoring in chutneys, salads, teas, and beverages like mojitos and lassi.",
+      "Used in traditional medicine to relieve indigestion, nausea, bloating, and irritable bowel symptoms.",
+      "Mint oil is used as a natural flavoring in candies, toothpaste, and personal care products."
+    ]
   },
   "Pumpkin": {
     "common_name": "Pumpkin",
     "scientific_name": "Cucurbita maxima",
     "family": "Cucurbitaceae",
     "local_nepali_name": "फर्सी",
-    "description": "A sprawling vine producing large gourds used as vegetables and seasonal decor.",
-    "uses": ["Vegetable crop", "Soup and curry", "Seasonal produce"]
+    "description": "Pumpkin is a large, vining vegetable with bright orange or yellow flesh that is nutritionally rich in beta-carotene, vitamins, and minerals. It is a staple vegetable in Nepal and across South Asia, where it is used in both savory and sweet preparations. The seeds, flowers, and leaves are also edible and nutritious.",
+    "uses": [
+      "Flesh is cooked as a vegetable in curries, soups, and stews, and used to make sweet desserts and pies.",
+      "Seeds are roasted and eaten as a nutritious snack rich in zinc, magnesium, and healthy fats.",
+      "Consumed regularly to support eye health, boost immunity, and provide antioxidant protection."
+    ]
   },
   "Raddish": {
     "common_name": "Radish",
     "scientific_name": "Raphanus sativus",
     "family": "Brassicaceae",
-    "local_nepali_name": "मुला",
-    "description": "A root vegetable with crunchy spicy roots eaten raw or cooked.",
-    "uses": ["Root vegetable", "Salad ingredient", "Cooking crop"]
+    "local_nepali_name": "मूला",
+    "description": "Radish is a fast-growing root vegetable with a crisp texture and peppery flavor, widely consumed in South Asian cuisines. It is a cool-season crop that comes in various shapes, sizes, and colors including white, red, and black varieties. In Nepal, the large white Daikon-type radish is commonly grown and used in cooking and pickles.",
+    "uses": [
+      "Roots are consumed raw in salads, pickled as achaar, or cooked in curries and stir-fries.",
+      "Used in traditional medicine to support liver detoxification and treat jaundice.",
+      "Leaves are eaten as a nutritious leafy green vegetable and are used in soups and curries."
+    ]
   },
   "Rose": {
     "common_name": "Rose",
-    "scientific_name": "Rosa hybrida",
+    "scientific_name": "Rosa × damascena",
     "family": "Rosaceae",
     "local_nepali_name": "गुलाब",
-    "description": "A classic ornamental flower grown for fragrance, bouquets, and skin care products.",
-    "uses": ["Ornamental flower", "Perfume", "Bouquets"]
+    "description": "Rose is one of the most iconic and beloved flowers in human history, cultivated for its beauty, fragrance, and medicinal properties for over 5,000 years. The petals are used in perfumery, cooking, and medicine, while rose hips (the fruit) are exceptionally rich in vitamin C. Rose holds deep symbolic significance in culture, religion, and romantic traditions worldwide.",
+    "uses": [
+      "Petals are distilled to produce rose water and essential oil used in perfumery, cosmetics, and cooking.",
+      "Rose water is used as a natural toner and skin care ingredient to soothe and hydrate the skin.",
+      "Rose hip fruits are used in herbal teas and supplements as a potent natural source of vitamin C."
+    ]
   },
   "Sampige": {
-    "common_name": "Champak",
+    "common_name": "Champaka / White Champaca",
     "scientific_name": "Magnolia champaca",
     "family": "Magnoliaceae",
     "local_nepali_name": "चम्पा",
-    "description": "A fragrant flowering tree known for yellow-orange blossoms used in rituals and perfume.",
-    "uses": ["Fragrant flower", "Temple use", "Ornamental tree"]
+    "description": "Sampige, known as Champaka or Champaca, is a large evergreen tree with intensely fragrant golden-orange or white flowers that are among the most prized in South and Southeast Asian perfumery. The flowers are sacred in Hindu and Buddhist traditions and are used in religious offerings. Champaca oil is one of the most expensive floral ingredients in high-end perfumery.",
+    "uses": [
+      "Flowers are used in religious offerings to deities and temples in Hindu and Buddhist traditions.",
+      "Essential oil extracted from flowers is used as a prized ingredient in luxury perfumes and attars.",
+      "Bark, leaves, and roots are used in traditional Ayurvedic medicine to treat fever and skin diseases."
+    ]
   },
   "Sapota": {
-    "common_name": "Sapota",
+    "common_name": "Sapodilla / Chikoo",
     "scientific_name": "Manilkara zapota",
     "family": "Sapotaceae",
-    "local_nepali_name": "सापोटा",
-    "description": "A fruit tree with sweet brown-fleshed fruits also called chikoo.",
-    "uses": ["Fruit crop", "Fresh eating", "Sweet fruit"]
+    "local_nepali_name": "चिकु",
+    "description": "Sapota, known as Chikoo or Sapodilla, is a tropical fruit tree producing sweet, brown, egg-shaped fruits with a grainy texture and malt-like flavor. It is native to southern Mexico and Central America but is widely cultivated in South Asia. The tree also produces a white latex called chicle, which was historically the primary ingredient in chewing gum.",
+    "uses": [
+      "Fruits are consumed fresh as a sweet, energy-rich fruit or processed into milkshakes and desserts.",
+      "Rich in tannins, the bark and unripe fruit are used in traditional medicine to treat diarrhea.",
+      "The latex (chicle) from the tree was historically used as the base material for natural chewing gum."
+    ]
   },
   "Seethaashoka": {
-    "common_name": "False Ashoka",
-    "scientific_name": "Polyalthia longifolia",
-    "family": "Annonaceae",
-    "local_nepali_name": "सीता अशोक",
-    "description": "A tall ornamental tree with graceful foliage and flowers used in avenue planting.",
-    "uses": ["Avenue tree", "Ornamental planting", "Shade tree"]
+    "common_name": "Ashoka Tree",
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "local_nepali_name": "अशोक",
+    "description": "Seethaashoka, the sacred Ashoka Tree, is one of the most revered trees in Hindu and Buddhist traditions, believed to have deep spiritual and medicinal significance. It is a beautiful ornamental tree with dense clusters of bright orange-red flowers. In Ayurveda, the bark is the principal ingredient in treatments for female reproductive health disorders.",
+    "uses": [
+      "Bark extracts are used in Ayurvedic formulations to treat menstrual disorders, uterine fibroids, and leucorrhea.",
+      "The tree is planted near temples as a sacred tree in Hindu and Buddhist religious traditions.",
+      "Flowers are used as offerings in religious ceremonies and for their symbolic meaning of love and fertility."
+    ]
   },
   "Seethapala": {
-    "common_name": "Custard Apple",
+    "common_name": "Custard Apple / Sugar Apple",
     "scientific_name": "Annona squamosa",
     "family": "Annonaceae",
-    "local_nepali_name": "शरीफा",
-    "description": "A fruit tree with sweet segmented pulp also called custard apple.",
-    "uses": ["Fruit crop", "Sweet pulp", "Dessert fruit"]
+    "local_nepali_name": "सीताफल",
+    "description": "Seethapala, known as Custard Apple or Sitaphal, is a tropical fruit tree producing creamy, sweet fruits with a knobby green exterior and soft white flesh. Native to the Americas, it is now widely grown in tropical and subtropical Asia. The fruit is extraordinarily sweet and is used in desserts, juices, and ice cream.",
+    "uses": [
+      "Fruits are consumed fresh for their sweet, creamy flesh and are used to make ice cream and milkshakes.",
+      "Seeds and leaves are used in traditional medicine as an insecticide and anti-parasitic agent.",
+      "Leaf and bark extracts are used in folk remedies to treat dysentery, fever, and skin infections."
+    ]
   },
   "Spinach1": {
-    "common_name": "Amaranth Spinach",
-    "scientific_name": "Amaranthus viridis",
+    "common_name": "Spinach (Variant)",
+    "scientific_name": "Spinacia oleracea",
     "family": "Amaranthaceae",
-    "local_nepali_name": "जंगली पालुङ्गो",
-    "description": "A leafy green plant class used as an alternative spinach-type vegetable.",
-    "uses": ["Leafy vegetable", "Cooking green", "Nutritional crop"]
+    "local_nepali_name": "पालुंगो",
+    "description": "This represents a secondary dataset category for spinach, sharing the same botanical identity as Palak. Spinach is an exceptionally nutrient-dense leafy green vegetable rich in iron, folate, vitamins A, C, and K, and antioxidants. It is a cool-season crop widely grown and consumed in Nepal, particularly during winter months.",
+    "uses": [
+      "Consumed as a nutritious leafy vegetable in curries, soups, pasta, omelets, and fresh salads.",
+      "Eaten as a dietary source of iron and folate to prevent and manage nutritional anemia.",
+      "Antioxidants in spinach are consumed to support eye health, reduce oxidative stress, and prevent chronic diseases."
+    ]
   },
   "Tamarind": {
     "common_name": "Tamarind",
     "scientific_name": "Tamarindus indica",
     "family": "Fabaceae",
-    "local_nepali_name": "इमली",
-    "description": "A pod-bearing tree with sour pulp used in cooking and chutneys.",
-    "uses": ["Sour fruit", "Cooking ingredient", "Chutney source"]
+    "local_nepali_name": "तितिरी / इमली",
+    "description": "Tamarind is a long-lived tropical tree producing distinctive curved brown seed pods filled with a sticky, sour pulp that is a fundamental souring agent in Indian, Thai, and Mexican cuisines. Native to tropical Africa, it has been cultivated in South Asia for thousands of years. The pulp, seeds, leaves, and bark all have culinary and medicinal uses.",
+    "uses": [
+      "Pulp is used extensively as a souring and flavoring agent in curries, chutneys, sauces, and beverages.",
+      "Used in traditional medicine as a laxative, digestive aid, and remedy for fever and malaria.",
+      "Seed powder is used as a food thickener and the bark is used to treat digestive disorders."
+    ]
   },
   "Taro": {
-    "common_name": "Taro",
+    "common_name": "Taro / Colocasia",
     "scientific_name": "Colocasia esculenta",
     "family": "Araceae",
     "local_nepali_name": "पिँडालु",
-    "description": "A tuber crop with large leaves and edible corms used in curries and stews.",
-    "uses": ["Tuber crop", "Leaf vegetable", "Starchy food"]
+    "description": "Taro is one of the oldest cultivated crops in the world, grown for its starchy, edible corms and large elephant-ear-shaped leaves. It is a staple food crop across tropical Asia, Africa, and the Pacific Islands. In Nepal, both the corms (roots) and leaves are important components of traditional cuisine.",
+    "uses": [
+      "Starchy corms are boiled, roasted, or steamed as a nutritious staple food substitute for potatoes.",
+      "Leaves are used to prepare curried vegetables and wrap food in some traditional cuisines.",
+      "Used in Ayurvedic medicine to treat anemia and provide energy due to its high carbohydrate and iron content."
+    ]
   },
   "Tecoma": {
-    "common_name": "Tecoma",
+    "common_name": "Yellow Trumpet Bush / Yellow Elder",
     "scientific_name": "Tecoma stans",
     "family": "Bignoniaceae",
-    "local_nepali_name": "टेकोमा",
-    "description": "An ornamental shrub with trumpet-shaped yellow flowers common in landscaping.",
-    "uses": ["Ornamental shrub", "Landscape plant", "Flowering hedge"]
+    "local_nepali_name": "पहेंलो तुरही फूल",
+    "description": "Tecoma stans, the Yellow Trumpet Bush, is a fast-growing ornamental shrub or small tree with bright yellow, trumpet-shaped flowers that bloom profusely. Native to the Americas, it has naturalized widely across tropical and subtropical regions. Beyond its ornamental value, it has significant uses in traditional medicine, particularly for managing diabetes.",
+    "uses": [
+      "Grown as an ornamental plant for its vibrant yellow flowers in gardens, parks, and roadside landscaping.",
+      "Leaf and bark extracts are used in traditional medicine in Mexico and India to help manage blood glucose in diabetics.",
+      "Roots are used in traditional remedies to treat syphilis, stomachache, and as a diuretic."
+    ]
   },
   "Thumbe": {
-    "common_name": "Leucas",
+    "common_name": "Little Ironweed / Thumbe",
     "scientific_name": "Leucas aspera",
     "family": "Lamiaceae",
-    "local_nepali_name": "थुम्बे झार",
-    "description": "A small medicinal weed often used in traditional cough, fever, and wound care.",
-    "uses": ["Folk medicine", "Cough care", "Medicinal weed"]
+    "local_nepali_name": "ढुंगेजार",
+    "description": "Thumbe, known as Leucas aspera or Guma in some regions, is a common roadside herb with small white flowers arranged in whorls along the stem. It is widely used in traditional medicine across South and Southeast Asia for its antimicrobial, anti-inflammatory, and insecticidal properties. The plant is particularly valued in Ayurveda and Siddha medicine.",
+    "uses": [
+      "Leaf juice is applied topically to treat skin diseases, chronic wounds, psoriasis, and fungal infections.",
+      "Used in traditional medicine to relieve respiratory conditions such as bronchitis and asthma.",
+      "Seed oil is used as a natural insecticide to control pests in stored grains and agricultural settings."
+    ]
   },
   "Tomato": {
     "common_name": "Tomato",
     "scientific_name": "Solanum lycopersicum",
     "family": "Solanaceae",
-    "local_nepali_name": "गोलभेंडा",
-    "description": "A widely grown fruit vegetable used fresh, cooked, and processed in sauces.",
-    "uses": ["Cooking vegetable", "Salad fruit", "Sauce ingredient"]
+    "local_nepali_name": "गोलभेडा",
+    "description": "Tomato is one of the most widely cultivated and consumed vegetables (botanically a fruit) in the world, valued for its nutritional richness and versatile culinary applications. It is rich in lycopene, a powerful antioxidant linked to cancer prevention and heart health. Native to South America, it is now a fundamental ingredient in cuisines worldwide.",
+    "uses": [
+      "Used extensively as a core ingredient in sauces, soups, curries, salads, and processed food products.",
+      "Consumed raw or cooked for its high lycopene and vitamin C content, supporting heart and skin health.",
+      "Tomato juice and pulp are used in beauty treatments to brighten skin and reduce tanning."
+    ]
   },
   "Tulsi": {
-    "common_name": "Holy Basil",
+    "common_name": "Holy Basil / Tulsi",
     "scientific_name": "Ocimum tenuiflorum",
     "family": "Lamiaceae",
     "local_nepali_name": "तुलसी",
-    "description": "A sacred herb with aromatic leaves used in teas, rituals, and home remedies.",
-    "uses": ["Tea herb", "Sacred plant", "Home remedy"]
+    "description": "Tulsi, or Holy Basil, is one of the most sacred plants in Hinduism and one of the most important medicinal herbs in Ayurvedic medicine. The plant has small, aromatic leaves containing essential oils with powerful adaptogenic, antimicrobial, and immunomodulatory properties. Almost every Hindu household in Nepal cultivates a Tulsi plant in their courtyard as an act of devotion.",
+    "uses": [
+      "Leaves are consumed as herbal tea to boost immunity, relieve colds, fever, and respiratory infections.",
+      "Used in Ayurvedic medicine as an adaptogen to help the body manage stress and anxiety.",
+      "Worshipped daily in Hindu traditions and used in religious ceremonies as a sacred plant representing purity."
+    ]
   },
   "Turmeric": {
     "common_name": "Turmeric",
     "scientific_name": "Curcuma longa",
     "family": "Zingiberaceae",
     "local_nepali_name": "बेसार",
-    "description": "A rhizome crop whose bright yellow powder is used in cooking and skin care.",
-    "uses": ["Cooking spice", "Skin care", "Traditional medicine"]
+    "description": "Turmeric is a tropical rhizomatous plant producing a bright yellow-orange underground stem (rhizome) that is one of the most important spices and medicines in South Asian culture. The active compound curcumin has been the subject of thousands of scientific studies for its anti-inflammatory and antioxidant properties. Turmeric holds deep cultural significance in Hindu traditions and is used in rituals and ceremonies.",
+    "uses": [
+      "Used as a fundamental spice and natural yellow coloring agent in curries, rice dishes, and beverages like golden milk.",
+      "Applied topically as an antiseptic paste to treat wounds, skin infections, and acne.",
+      "Taken internally as an anti-inflammatory supplement to manage arthritis, digestive disorders, and support liver health."
+    ]
+  },
+  "ashoka": {
+    "common_name": "Ashoka Tree / Sorrowless Tree",
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "local_nepali_name": "अशोक",
+    "description": "The Ashoka tree is deeply sacred in both Hindu and Buddhist traditions; Buddha is said to have been born under an Ashoka tree. It is a graceful evergreen tree with drooping leaves and clusters of fragrant orange-red flowers. In Ayurveda, the bark is one of the most important herbs for treating female reproductive disorders.",
+    "uses": [
+      "Bark is the primary ingredient in Ashokarishta, an Ayurvedic formulation to treat menstrual irregularities and uterine disorders.",
+      "Planted near temples and sacred sites as a holy tree symbolizing love, prosperity, and the removal of sorrow.",
+      "Flowers are used as temple offerings and are believed to bring auspiciousness in Hindu and Jain traditions."
+    ]
+  },
+  "camphor": {
+    "common_name": "Camphor Tree",
+    "scientific_name": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "local_nepali_name": "कपूर",
+    "description": "The Camphor Tree is a large, long-lived evergreen tree native to East Asia, from which crystalline camphor is derived through steam distillation of the wood and leaves. Camphor has a distinctive, penetrating aroma and is widely used in religious rituals, medicine, and industry. It holds great religious significance in Hindu worship and is burned as incense in temples.",
+    "uses": [
+      "Camphor is burned as incense in Hindu and Buddhist religious rituals and temple worship ceremonies.",
+      "Used in topical balms and ointments to relieve muscle pain, joint inflammation, and chest congestion.",
+      "Used as a natural moth repellent and preservative, and in pharmaceutical and industrial applications."
+    ]
+  },
+  "kamakasturi": {
+    "common_name": "Musk Mallow / Abelmoschus",
+    "scientific_name": "Abelmoschus moschatus",
+    "family": "Malvaceae",
+    "local_nepali_name": "कस्तुरी भिन्डी",
+    "description": "Kamakasturi, or Musk Mallow, is an aromatic herb closely related to okra, cultivated for its musk-scented seeds used in perfumery and traditional medicine. The plant has attractive large, hibiscus-like flowers and is valued across South Asia for its medicinal and aromatic properties. The musky fragrance of its seeds makes them a traditional ingredient in perfumes and aphrodisiac formulations.",
+    "uses": [
+      "Seeds are used in perfumery as a natural musk substitute and as a flavoring in food and beverages.",
+      "Used in traditional Ayurvedic medicine as an antispasmodic to treat stomach cramps and digestive disorders.",
+      "Root and seed preparations are used in folk medicine as an aphrodisiac and to treat skin disorders and snake bites."
+    ]
+  },
+  "kepala": {
+    "common_name": "Coconut Palm",
+    "scientific_name": "Cocos nucifera",
+    "family": "Arecaceae",
+    "local_nepali_name": "नरिवल",
+    "description": "The Coconut Palm is one of the most economically and culturally important trees in the tropical world, often called the 'Tree of Life' because virtually every part of it is useful. It provides food, water, oil, fiber, timber, and fuel. The fruit (coconut) consists of a fibrous husk, a hard shell, white flesh, and refreshing coconut water.",
+    "uses": [
+      "Coconut water is consumed as a natural, hydrating electrolyte drink and the flesh is eaten fresh or dried as copra.",
+      "Coconut oil extracted from dried flesh is used for cooking, hair care, skincare, and in numerous industrial products.",
+      "Leaves are used for thatching roofs, making brooms, and weaving mats; the shell is used for crafts and activated charcoal."
+    ]
   }
 }

@@ -16,6 +16,5 @@ def build_prompt(plant):
         f"It is used for {', '.join(plant['uses'])}."
     )
 
-
 def get_plant_info(class_name):
     return plant_descriptions.get(class_name, None)
