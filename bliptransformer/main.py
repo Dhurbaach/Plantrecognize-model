@@ -11,19 +11,18 @@ def generate_caption_for_plant(image_path: str, class_name: str) -> dict | None:
 
     if not plant_info:
         # fallback to raw BLIP (important safety)
-        caption = generate_blip_caption(image_path, "Describe this plant")
+        caption = generate_blip_caption(image_path)
         return {
             "class": class_name,
             "caption": caption,
             "note": "Fallback mode (no JSON match)"
         }
 
-    # Step 2: Build prompt for BLIP transformer
+    # Step 2: Build prompt for contextual information.
     prompt = build_prompt(plant_info)
 
-    # Step 3: Generate caption using BLIP transformer
+    # Step 3: Generate caption using both image and prompt context.
     caption = generate_blip_caption(image_path, prompt)
-    # final_caption=f"{caption} | Info: {prompt}"
 
     # Step 4: Return result with caption and plant metadata
     result = {

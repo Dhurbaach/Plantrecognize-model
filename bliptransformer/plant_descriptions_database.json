@@ -958,5 +958,11 @@
       "Coconut oil extracted from dried flesh is used for cooking, hair care, skincare, and in numerous industrial products.",
       "Leaves are used for thatching roofs, making brooms, and weaving mats; the shell is used for crafts and activated charcoal."
     ]
-  }
-}
+  },
+  "none": {
+    "common_name": "Not a Plant",
+    "scientific_name": "none",
+    "family": "No any plant",
+    "local_nepali_name": "None",
+    "description": "This entry may represents a non-plant category."
+}}

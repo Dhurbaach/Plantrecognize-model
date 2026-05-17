@@ -10,3 +10,5 @@
 /__pycache__
 /leaf_vs_non_leaf_split
 /leaf_vs_non_leaf_split.zip
+best_convnext.pth
+/blip_model

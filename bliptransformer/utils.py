@@ -13,7 +13,7 @@ def build_prompt(plant):
         f"This is {plant['common_name']} ({plant['scientific_name']}). "
         f"It belongs to the {plant['family']} family. "
         f"{plant['description']} "
-        f"It is used for {', '.join(plant['uses'])}."
+        # f"It is used for {', '.join(plant['uses'])}."
     )
 
 def get_plant_info(class_name):
