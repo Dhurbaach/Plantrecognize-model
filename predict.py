@@ -160,7 +160,7 @@ def predict_file(file_path: str) -> dict:
         top_indices = np.argsort(probs[0])[::-1][:5]
 
         plant_name = CLASS_NAMES[predicted_index]
-        if confidence <= 0.15:
+        if confidence <= 0.25:
             plant_name = "none"
 
         return {
@@ -206,7 +206,7 @@ async def predict(image: UploadFile = File(...), organ: Optional[str] = Form(Non
 
         # If confidence is low, generate a generic caption and get info for "none" class.
         # Otherwise, use the predicted class name.
-        if result["confidence"] <= 0.15:
+        if result["confidence"] <= 0.25:
             class_name_for_info = "none"
             caption_result = await run_in_threadpool(generate_caption_for_plant, str(temp_path), class_name=class_name_for_info)
         else:

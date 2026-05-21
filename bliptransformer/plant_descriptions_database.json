@@ -960,9 +960,9 @@
     ]
   },
   "none": {
-    "common_name": "Not a Plant",
-    "scientific_name": "none",
-    "family": "No any plant",
-    "local_nepali_name": "None",
+    "common_name": "Can not identify",
+    "scientific_name": "not identified",
+    "family": "not identified",
+    "local_nepali_name": "not identified",
     "description": "This entry may represents a non-plant category."
 }}

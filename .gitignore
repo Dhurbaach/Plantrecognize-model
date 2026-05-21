@@ -7,8 +7,9 @@
 *.log
 *.tmp
 .ipynb_checkpoints
-/__pycache__
+bliptransformer/__pycache__
 /leaf_vs_non_leaf_split
 /leaf_vs_non_leaf_split.zip
 best_convnext.pth
 /blip_model
+__pycache__
